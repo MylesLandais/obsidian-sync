@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "75e0f1ded0d3de81",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ce267857e036561",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "unitrix malware.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2bf5f4b5168aee2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d84fb467b07a93d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bee09387d192d155",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3814f5844bbda0c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "abfaa17789b05827",
+    "type": "split",
+    "children": [
+      {
+        "id": "090209a544c28a2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d6dcdbb81a0db00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "unitrix malware.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5ce267857e036561",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Immunity Debugger.md",
+    "General Purpose Regitsters.md",
+    "mona.py.md",
+    "Pasted image 20210731124848.png",
+    "Certifications.md",
+    "programaming.md",
+    "Reading List.md",
+    "Windows Administration.md",
+    "Red Hat.md"
+  ]
+}
