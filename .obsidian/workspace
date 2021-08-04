@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "unitrix malware.md",
+            "file": "AWS/Solutions Architect.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unitrix malware.md",
+                "file": "AWS/Solutions Architect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "5ce267857e036561",
   "lastOpenFiles": [
+    "AWS/Solutions Architect.md",
     "Untitled.md",
+    "Certifications.md",
     "Immunity Debugger.md",
     "General Purpose Regitsters.md",
     "mona.py.md",
     "Pasted image 20210731124848.png",
-    "Certifications.md",
     "programaming.md",
     "Reading List.md",
-    "Windows Administration.md",
-    "Red Hat.md"
+    "Windows Administration.md"
   ]
 }
