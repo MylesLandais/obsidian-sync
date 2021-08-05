@@ -1,3 +1,4 @@
+[[2021-08-04]]
 # Tasks
 [] Dump firefox tabs to obsidian notes
 [] Copy user groups in powershell to new user 
