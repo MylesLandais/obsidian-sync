@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "2021-08-05.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "2021-08-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "5ce267857e036561",
   "lastOpenFiles": [
-    "Untitled.md",
+    "2021-08-05.md",
+    "2021-08-03-daily-notes.md",
+    "Ultimate AWS Certified Solutions Architect Associate 2021.md",
     "AWS SAA-C02 Sample Exam Questions.md",
+    "Untitled 1.md",
+    "2021-08-04.md",
+    "Untitled.md",
     "Do Stack Buffer Overflow Good.md",
     "Certifications.md",
-    "unitrix malware.md",
-    "Immunity Debugger.md",
-    "General Purpose Regitsters.md",
-    "mona.py.md",
-    "Pasted image 20210731124848.png",
-    "programaming.md"
+    "unitrix malware.md"
   ]
 }
