@@ -48,11 +48,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296
   },
   "right": {
     "id": "abfaa17789b05827",
@@ -88,6 +89,7 @@
   },
   "active": "5ce267857e036561",
   "lastOpenFiles": [
+    "pwning juice shop.md",
     "Untitled.md",
     "2021-08-03-daily-notes.md",
     "AWS/Solutions Architect.md",
@@ -96,7 +98,6 @@
     "General Purpose Regitsters.md",
     "mona.py.md",
     "Pasted image 20210731124848.png",
-    "programaming.md",
-    "Reading List.md"
+    "programaming.md"
   ]
 }
