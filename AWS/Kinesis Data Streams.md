@@ -1,0 +1,1 @@
+**Amazon Kinesis Data Streams (KDS) is a massively scalable and durable real-time data streaming service**

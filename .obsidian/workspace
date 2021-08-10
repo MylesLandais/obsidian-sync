@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-08-07.md",
+            "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-08-07.md",
+                "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "5ce267857e036561",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "2021-08-05.md",
-    "2021-08-03-daily-notes.md",
-    "Ultimate AWS Certified Solutions Architect Associate 2021.md",
-    "AWS SAA-C02 Sample Exam Questions.md",
-    "2021-08-04.md",
+    "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+    "Daily Notes/2021-08-09.md",
+    "Daily Notes/2021-08-08.md",
+    "Daily Notes/2021-08-07.md",
+    "AWS/Elastic Cloud - EC2.md",
+    "AWS/AWS SAA-C02 Sample Exam Questions.md",
     "Untitled.md",
-    "Do Stack Buffer Overflow Good.md",
-    "Certifications.md",
-    "unitrix malware.md"
+    "2021-08-08.md",
+    "Philosophy/Stoics.md",
+    "Philosophy/Untitled 1.md"
   ]
 }
