@@ -43,7 +43,32 @@
 	D) Associate an Elastic IP address with the network interface of the primary instance. Disassociate the Elastic IP from the primary instance upon failure and associate it with a secondary instance
 	**Solution**
 		C – A secondary ENI can be added to an instance. While primary ENIs cannot be detached from an instance, secondary ENIs can be detached and attached to a different instance.
-7.
-8.
-9.
-10.
+7. An analytics company is planning to offer a site analytics service to its users. The service will require that the users’ webpages include a JavaScript script that makes authenticated GET requests to the company’s Amazon S3 bucket. What must a solutions architect do to ensure that the script will successfully execute? 
+	A) Enable cross-origin resource sharing (CORS) on the S3 bucket. 
+	B) Enable S3 versioning on the S3 bucket. 
+	C) Provide the users with a signed URL for the script. 
+	D) Configure a bucket policy to allow public execute privileges.
+	**solution**
+		A – Web browsers will block the execution of a script that originates from a server with a different domain name than the webpage. Amazon S3 can be configured with CORS to send HTTP headers that allow the script execution
+8. A company’s security team requires that all data stored in the cloud be encrypted at rest at all times using encryption keys stored on-premises. Which encryption options meet these requirements? (Select TWO.) 
+	A) Use Server-Side Encryption with Amazon S3 Managed Keys (SSE-S3). 
+	B) Use Server-Side Encryption with AWS KMS Managed Keys (SSE-KMS). 
+	C) Use Server-Side Encryption with Customer Provided Keys (SSE-C). 
+	D) Use client-side encryption to provide at-rest encryption.
+	E) Use an AWS Lambda function triggered by Amazon S3 events to encrypt the data using the customer’s keys.
+	**solution**
+		C, D – Server-Side Encryption with Customer-Provided Keys (SSE-C) enables Amazon S3 to encrypt objects server side using an encryption key provided in the PUT request. The same key must be provided in GET requests for Amazon S3 to decrypt the object. Customers also have the option to encrypt data client side before uploading it to Amazon S3 and decrypting it after downloading it. AWS SDKs provide an S3 encryption client that streamlines the process
+9. A company needs to maintain access logs for a minimum of 5 years due to regulatory requirements. The data is rarely accessed once stored, but must be accessible with one day’s notice if it is needed. What is the MOST cost-effective data storage solution that meets these requirements? 
+	A) Store the data in Amazon S3 Glacier Deep Archive storage and delete the objects after 5 years using a lifecycle rule. 
+	B) Store the data in Amazon S3 Standard storage and transition to Amazon S3 Glacier after 30 days using a lifecycle rule. 
+	C) Store the data in logs using Amazon CloudWatch Logs and set the retention period to 5 years. 
+	D) Store the data in Amazon S3 Standard-Infrequent Access (S3 Standard-IA) storage and delete the objects after 5 years using a lifecycle rule
+	**solution**
+		A – Data can be stored directly in Amazon S3 Glacier Deep Archive. This is the cheapest S3 storage class.
+10. A company uses Reserved Instances to run its data-processing workload. The nightly job typically takes 7 hours to run and must finish within a 10-hour time window. The company anticipates temporary increases in demand at the end of each month that will cause the job to run over the time limit with the capacity of the current resources. Once started, the processing job cannot be interrupted before completion. The company wants to implement a solution that would allow it to provide increased capacity as cost-effectively as possible. What should a solutions architect do to accomplish this? 
+	A) Deploy On-Demand Instances during periods of high demand. 
+	B) Create a second Amazon EC2 reservation for additional instances. 
+	C) Deploy Spot Instances during periods of high demand. 
+	D) Increase the instance size of the instances in the Amazon EC2 reservation to support the increased workload.
+	**solution**
+		A – While Spot Instances would be the least costly option, they are not suitable for jobs that cannot be interrupted or must complete within a certain time period. On-Demand Instances would be billed for the number of seconds they are running

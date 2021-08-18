@@ -37,4 +37,16 @@
 				- batch jobs
 		- Dedicated Instances
 	- Elastic Network Interfaces
-		-  
+	
+		represent a virtual network card. 
+		has an IP4 address and MAC address
+	- EC2 Hibernate
+		an instance can hibernate up to 60 days
+- High Availability
+	- Horizontal Vs. Vertical Scaling
+	- What is load balancing?
+		[[EC2 Load Balancer]] 
+		Health Checks - Determines if instances are responding to requests
+		![[Pasted image 20210818113113.png]]
+		If a reply is 200 OK an instance is healthy, health check can be conifgured
+		

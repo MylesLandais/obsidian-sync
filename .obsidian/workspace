@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+            "file": "Daily Notes/2021-08-18.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 395
   },
   "right": {
     "id": "abfaa17789b05827",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+                "file": "Daily Notes/2021-08-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "5ce267857e036561",
   "lastOpenFiles": [
-    "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
-    "Daily Notes/2021-08-09.md",
-    "Daily Notes/2021-08-08.md",
-    "Daily Notes/2021-08-07.md",
-    "AWS/Elastic Cloud - EC2.md",
-    "AWS/AWS SAA-C02 Sample Exam Questions.md",
     "Untitled.md",
-    "2021-08-08.md",
-    "Philosophy/Stoics.md",
-    "Philosophy/Untitled 1.md"
+    "Untitled/Untitled.md",
+    "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+    "AWS/AWS SAA-C02 Sample Exam Questions.md",
+    "AWS/EC2 Load Balancer.md",
+    "Unraid/Static IP Address (unraid).md",
+    "Cloud Design Patterns.md",
+    "Daily Notes/2021-08-16.md",
+    "2021-08-13.md",
+    "Guide to anime.md"
   ]
 }
