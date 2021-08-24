@@ -11,3 +11,6 @@ AWS Penetration testing (PACKT)
 Operator Handbook
 Red Team Field Manual
 Hacker Methadology Handbook
+
+Bug Bounty Bootcamp
+![[Pasted image 20210819034034.png]]

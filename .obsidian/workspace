@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2021-08-18.md",
+            "file": "Daily Notes/2021-08-23.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "message queue",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2021-08-18.md",
+                "file": "Daily Notes/2021-08-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "5ce267857e036561",
   "lastOpenFiles": [
+    "Daily Notes/2021-08-23.md",
+    "Daily Notes/2021-08-19.md",
+    "2021-08-23.md",
     "Untitled.md",
-    "Untitled/Untitled.md",
+    "Beej Networking Programming Guide.md",
+    "AWS/Simple Query Service.md",
+    "AWS/Solutions Architect.md",
+    "AWS/Storage Gateway volume.md",
     "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
-    "AWS/AWS SAA-C02 Sample Exam Questions.md",
-    "AWS/EC2 Load Balancer.md",
-    "Unraid/Static IP Address (unraid).md",
-    "Cloud Design Patterns.md",
-    "Daily Notes/2021-08-16.md",
-    "2021-08-13.md",
-    "Guide to anime.md"
+    "AWS/Virtual Private Cloud.md"
   ]
 }

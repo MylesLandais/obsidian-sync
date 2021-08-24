@@ -13,3 +13,6 @@ Network load balancer v2
 tcp,tls, udp
 
 can be internal or external
+
+https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/elb-getting-started.html
+
