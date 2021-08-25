@@ -49,4 +49,22 @@
 		Health Checks - Determines if instances are responding to requests
 		![[Pasted image 20210818113113.png]]
 		If a reply is 200 OK an instance is healthy, health check can be conifgured
-		
+		-  Network Load Balancer
+			- Internet Facing
+			- can exsist in multiple AZ's
+			- targeting a grouop
+			- Can be assigned an elastic IP (must be done at creation)
+	- Application Load Balancer V2
+		- Route based on path in url
+			(example.com/users or example.com/post)
+		- Additionally routing on query string and headers
+		- port mapping feature
+		![[Pasted image 20210824112817.png]]
+		- can direct to lambda functions
+		- Client IP information contained in x-forward- http headers
+	- Classic Load Balancers (v1)
+		- TCP (layer 4)
+		- HTTP (layer 7)
+		- Health cheack at either level
+		- fixed hostname
+		- 

@@ -1,5 +1,6 @@
 {
   "readableLineLength": true,
   "foldHeading": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "attachmentFolderPath": "assets"
 }
