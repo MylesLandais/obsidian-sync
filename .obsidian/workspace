@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5ce267857e036561",
+        "id": "dd0013d01ffc91b1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "f33348b92232e35b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Daily Notes/2021-08-24.md",
+            "file": "Toolkit.md",
             "mode": "source"
           }
         }
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "message queue",
+                "query": "anime",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2021-08-24.md",
+                "file": "Toolkit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f33348b92232e35b",
+  "active": "dd0013d01ffc91b1",
   "lastOpenFiles": [
-    "Daily Notes/2021-08-24.md",
-    "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
-    "Daily Notes/2021-08-23.md",
     "Untitled.md",
+    "2021-08-30.md",
+    "2021-08-26.md",
+    "Anime - Self hosted guide.md",
+    "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+    "Daily Notes/2021-08-24.md",
+    "Daily Notes/2021-08-23.md",
     "Daily Notes/2021-08-19.md",
     "2021-08-23.md",
-    "Beej Networking Programming Guide.md",
-    "AWS/Simple Query Service.md",
-    "AWS/Solutions Architect.md",
-    "AWS/Storage Gateway volume.md"
+    "Beej Networking Programming Guide.md"
   ]
 }

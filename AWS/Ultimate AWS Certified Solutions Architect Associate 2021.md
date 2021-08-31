@@ -43,28 +43,64 @@
 	- EC2 Hibernate
 		an instance can hibernate up to 60 days
 - High Availability
-	- Horizontal Vs. Vertical Scaling
-	- What is load balancing?
+	Horizontal Vs. Vertical Scaling
+	What is load balancing?
 		[[EC2 Load Balancer]] 
 		Health Checks - Determines if instances are responding to requests
 		![[Pasted image 20210818113113.png]]
 		If a reply is 200 OK an instance is healthy, health check can be conifgured
+		SECURITY - Configure EC2 instances to allow access from load balancers 
 		-  Network Load Balancer
-			- Internet Facing
-			- can exsist in multiple AZ's
-			- targeting a grouop
-			- Can be assigned an elastic IP (must be done at creation)
-	- Application Load Balancer V2
-		- Route based on path in url
-			(example.com/users or example.com/post)
-		- Additionally routing on query string and headers
-		- port mapping feature
-		![[Pasted image 20210824112817.png]]
-		- can direct to lambda functions
-		- Client IP information contained in x-forward- http headers
-	- Classic Load Balancers (v1)
-		- TCP (layer 4)
-		- HTTP (layer 7)
-		- Health cheack at either level
-		- fixed hostname
-		- 
+				- Internet Facing
+				- can exsist in multiple AZ's
+				- targeting a grouop
+				- Can be assigned an elastic IP (must be done at creation)
+		- Application Load Balancer V2
+				- Route based on path in url
+				(example.com/users or example.com/post)
+			- Additionally routing on query string and headers
+			- port mapping feature
+			![[Pasted image 20210824112817.png]]
+			- can direct to lambda functions
+			- Client IP information contained in x-forward- http headers
+		- Classic Load Balancers (v1)
+			- TCP (layer 4)
+			- HTTP (layer 7)
+			- Health cheack at either level
+			- fixed hostname
+		Stickiness - The client will continue to connect to the same instance behind the load balancer. Used to maintain session data. May cause an imablance. (duration up to 7days)
+
+		Cross Zone Balancing - Each load balancer will distribute across all AZ's
+		![[Pasted image 20210825105223.png]]
+
+		SSL/TLS Certificates
+			Secure Socket Layer - used to enctrypt connections
+			Transport Layer Security - newer version, mainly used.
+			Public certs and issued by Certificate Authorities
+				- Comodo, Symntec, LetsEncrypt
+				- Have an expiration date, must be re-newed regularly
+			Load Balancers uses a X.509 cert.
+			managed using AWS Cert Manager, where you can upload your own certs
+			Server Name Indication - Solves the problem of loading multiple certificates onto one web server to server multiple websites
+			Multiple Certs is supported by ALB and NLB (Not v1 classic)
+
+		Connection Draining or Deregistration Delay
+			Time to complete requests while un-healthy. Stop sending new requrests to the instance while de-registering
+			![[Pasted image 20210825111212.png]]
+			Disabled with value 0, max time 1 hour
+			
+	Auto Scaling Groups
+		Scale out or in to match load demands while registering new machines with load blanacers
+		Attributes
+			Launch configuration
+			AMI + instance types, User Data, EBS Volumes, Security Groups, SSH Key Pairs
+			Alarms - Can notify through cloudwatch monitoring metrics to scale
+			Scaling patterns can be time based (ie. reports run every sunday and monday)
+		IAM roles can be applied through scaling
+		Can replace terminiated instances
+		Cool Down period ensures doesnt add/remove before the previous activity takes place.
+		Default Termination Policy, Find AZ with most instances, deleted the oldest configuration
+		Lifecycle hooks - Perform pragmatic actions when scaling [Amazon EC2 Auto Scaling lifecycle hooks - Amazon EC2 Auto Scaling](https://docs.aws.amazon.com/autoscaling/ec2/userguide/lifecycle-hooks.html)
+		Launch Templates - Versions, Parameters, t2 burst
+		
+		

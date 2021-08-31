@@ -46,4 +46,6 @@ Sonarr
 
 	Run multiple instances by changing the port maps
 	
-	
+- misc
+- https://youtu.be/h9j89L8eQQk
+	- video on banding
