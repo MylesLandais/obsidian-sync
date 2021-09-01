@@ -1,0 +1,1 @@
+Cobalt Strike is a commercial product sold by the Minnesota company HelpSystems

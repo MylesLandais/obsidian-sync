@@ -102,5 +102,9 @@
 		Default Termination Policy, Find AZ with most instances, deleted the oldest configuration
 		Lifecycle hooks - Perform pragmatic actions when scaling [Amazon EC2 Auto Scaling lifecycle hooks - Amazon EC2 Auto Scaling](https://docs.aws.amazon.com/autoscaling/ec2/userguide/lifecycle-hooks.html)
 		Launch Templates - Versions, Parameters, t2 burst
-		
-		
+- Cloud Storage
+	-  EBS Root volumes deleted on terminiation.  Do not keep data on this volume
+	-  EBS is a network drive has latency and locked to an AZ
+	-  Unexcpected terminations can hapen
+	-  IOPS ratio based on size allocation
+	-  Snapshots can be AMI, Managed by Data life cycle management (snapshot lifecycle policy) can automate your backup process.
