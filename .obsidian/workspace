@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Windows 10 Registry Hacks.md",
+            "file": "Pygeum Extract.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "windows 10",
+                "query": "c",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows 10 Registry Hacks.md",
+                "file": "Pygeum Extract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,14 +89,14 @@
   "active": "b8e999c817f8bc1c",
   "lastOpenFiles": [
     "Untitled 1.md",
-    "Untitled.md",
-    "Operating Systems/Debian.md",
-    "Ansible.md",
-    "WSL2.md",
+    "Library/Wishlist.md",
     "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
-    "Daily Notes/2021-08-31.md",
+    "Relational Database Service.md",
+    "AWS/Storage Gateway volume.md",
+    "AWS/Elastic File System.md",
     "AWS/Elastic Block Volume.md",
+    "AWS/Elastic Cloud - EC2.md",
     "AWS/EC2 Load Balancer.md",
-    "2021-08-31.md"
+    "2021-09-03.md"
   ]
 }

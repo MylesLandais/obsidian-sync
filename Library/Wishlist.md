@@ -14,3 +14,5 @@ Hacker Methadology Handbook
 
 Bug Bounty Bootcamp
 ![[Pasted image 20210819034034.png]]
+
+Algorithms for Data Science https://www.springer.com/gp/book/9783319457956

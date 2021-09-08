@@ -108,3 +108,26 @@
 	-  Unexcpected terminations can hapen
 	-  IOPS ratio based on size allocation
 	-  Snapshots can be AMI, Managed by Data life cycle management (snapshot lifecycle policy) can automate your backup process.
+	-  To move to another reigon, snapshop, copy, re-create on new az
+	-  Data at rest can be encrypted. Minimal impact on latency
+	-  [[Elastic File System]]
+	-  EBS can be snapsnots and restored to migrate
+	-  EFS can be mounted to many, and has the performance for that
+-  Databases
+	-  [[Relational Database Service]]
+	-  Automated provisioning and patching
+	-  Point in time restore
+	-  Monitoring dashboard
+	-  Multi-AZ disaster recovery
+	-  Using elasticache infront of RDS
+	![[Pasted image 20210907113806.png]]
+	- Elasticache can be used as a user session store
+	- elasticache does not have IAM auth
+	- IAM used for API-level security
+	- Redis by default can be accessed
+		- Reommended to configure Redis Auth
+	- Patterns for ElasticCache
+		- Lazy Loading
+		- Write Through (no stale data)
+		- Session Store (TTL Feature)
+	- 
