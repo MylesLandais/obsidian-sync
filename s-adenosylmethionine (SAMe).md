@@ -1,0 +1,1 @@
+"review of SAMe in the treatment of major depressive disorder found promising but limited evidence of efficacy and safety to support its use" [source](https://www.psychiatrist.com/jcp/depression/same-for-neuropsychiatric-disorders/)

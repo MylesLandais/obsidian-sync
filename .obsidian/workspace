@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b8e999c817f8bc1c",
+        "id": "72ba0d060319ce1e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pygeum Extract.md",
+            "file": "Data Intensive Applications.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "c",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pygeum Extract.md",
+                "file": "Data Intensive Applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b8e999c817f8bc1c",
+  "active": "72ba0d060319ce1e",
   "lastOpenFiles": [
+    "Data Intensive Applications.md",
+    "2021-09-12.md",
     "Untitled 1.md",
-    "Library/Wishlist.md",
+    "Comptia Cybersecurity Analyst (Cysa).md",
     "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
-    "Relational Database Service.md",
-    "AWS/Storage Gateway volume.md",
-    "AWS/Elastic File System.md",
-    "AWS/Elastic Block Volume.md",
-    "AWS/Elastic Cloud - EC2.md",
-    "AWS/EC2 Load Balancer.md",
-    "2021-09-03.md"
+    "AWS SAA.md",
+    "Daily Notes/2021-08-04.md",
+    "AWS/Route53.md",
+    "Magnesium.md",
+    "Goals.md"
   ]
 }

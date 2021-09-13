@@ -130,4 +130,23 @@
 		- Lazy Loading
 		- Write Through (no stale data)
 		- Session Store (TTL Feature)
-	- 
+[[Route53]]
+	Routing Policies
+		Simple
+		Weighted
+		Latency
+		failover
+		geolocation
+		geoproxmity - Can assign a bias value to get more traffic to a certain reigon
+		Multiple Value - Associated with health checks, up to 8 healthy records can be returned
+	Health Checks
+	Traffic Flow
+		Start point (A: IPAddr) connects to rules.
+		Visual route 53 flow charting
+		Traffic policy has a monthly fee ~50$
+	Registrar Vs. DNS Service
+[[Solutions Architecture]]
+	Understand how all the pieces fit together
+	Statelesss web application - whatisthetime
+	Handeling downtime during maitnence
+	
