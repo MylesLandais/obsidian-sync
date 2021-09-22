@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Intensive Applications.md",
+            "file": "2021-09-21.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Professor Messer\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Intensive Applications.md",
+                "file": "2021-09-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "72ba0d060319ce1e",
   "lastOpenFiles": [
-    "Data Intensive Applications.md",
-    "2021-09-12.md",
-    "Untitled 1.md",
-    "Comptia Cybersecurity Analyst (Cysa).md",
+    "2021-09-21.md",
     "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
-    "AWS SAA.md",
-    "Daily Notes/2021-08-04.md",
-    "AWS/Route53.md",
-    "Magnesium.md",
-    "Goals.md"
+    "Daily Notes/2021-08-09.md",
+    "Try Harder.md",
+    "Untitled 1.md",
+    "Algorithms.md",
+    "2021-09-20.md",
+    "Library/Wishlist.md",
+    "Library/Reading Lists.md",
+    "Reading List.md"
   ]
 }

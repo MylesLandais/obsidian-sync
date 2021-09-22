@@ -4,6 +4,7 @@ A: Hostname => ipv4
 AAAA: Hostname => IPv6
 CNAME: Hostname => hostname
 Alias: Hostname to AWS Resource (can be used with root domain) Free pointing to aws resources
+	used for directing traffic to load balancers
 
 
 Domain Names can be purchased through amazon for ~12/yr or transfered

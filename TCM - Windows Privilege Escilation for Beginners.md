@@ -1,0 +1,1 @@
+https://academy.tcm-sec.com/courses/windows-privilege-escalation-for-beginners/lectures/24794928

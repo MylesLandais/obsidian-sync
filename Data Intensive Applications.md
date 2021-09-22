@@ -16,3 +16,7 @@ Case Study - Amazon page client side response time = More sales
 
 calculate effective response times as a dashboard
 
+Relational Database Management Systems - SQL
+dominante for the past ~30 years
+
+"no"sql need to out scale relational db, better throughput

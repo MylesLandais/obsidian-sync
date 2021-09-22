@@ -148,5 +148,85 @@
 [[Solutions Architecture]]
 	Understand how all the pieces fit together
 	Statelesss web application - whatisthetime
-	Handeling downtime during maitnence
+	Whatsthetime (stateless - case study)
+		Public vs. Private IP and EC2 instances
+		Elastic ip vs Route 53 vs Load Balancers
+		Route 53 TTL, A Records, and Alias Records
+		Auto Scaling Groups
+		multi az disasters
+		ELB health checks + Security policy
+		capacity cost saving
+	MyClothes (case study)
+		ELB sticky sessions
+		ElasticCache
+			Storing sessions data (alternative dynamoDB)
+			Caching data from rds
+			multi-az
+		RDS
+			Data Store
+			Scaling with Read Replica
+			multi-az
+	wordpress (cms - case study)
+		aurora db
+		storing data in EBS vs storing data in EFs
+[[Elasstic Beanstalk]]
+	Supports Go, Java, .Net Core, Python,  Php, Ruby, Docker
+	Web server tier v. Worker Tier
+		Workers can be processing messages from a queue
+	Presets
+		Free Tier
+		Single spot
+[[Amazon S3 - Cloud Object Storage]]
+	object files have a key, this may be the filename and it may include the directory structure
+	contains
+		metadata
+		tags
+		versioning
+	deleting objects creats a delete marker
+	Encryption
+		SSE-S3 keys used and managed my AWS
+		SSE-KMS keys handled and managed by KMS (auditable)
+		SEE-C aws does not know what keys, must be done through cli, sdk, or API
+		Client Side Encryption you encrypt + you manage keys
+	Security Pollicy
+		IAM users/policy can be authorized for specific access
+		Resource Based bucket pilcies, wide rules allow cross account
+		Object ACL - Fine grain control
+		Bucket ACL
+		IAM Principal can access and s3 object if user allow or the resource policy allow and no deny.
+		Bucket Policies are JSON based
+			Blocking public access through ACL's
+			Support for VPC endpoints
+			Logging and Audit stored in s3 buckets
+			api calls can be monitored in cloudtrail
+			MFA delete can be required
+		S3 Websites
+			bucket policy needs public reads
+			host static websites
+		CORS
+			Define Origin, Scheme, Host, Port
+			Cross Origin Resource Sharing
+AWS SDK, IAM Roles & Policies
+	[aws policy simulator]
+	ec2 instance metadata
+		169.254.169.254/latest/meta-data - internal IP address for AWS
+		Retrieve IAM Roles
+	AWS SDK allows your to program your infrastructure
+		Available in Java, .NET, Python, Go, C++, Ruby
+		CLI uses BOTO3 sdk 
+		default reigon to us-east-1
+Advanced S3 & Athena
+	MFA-Delete to delete/suspend versioning, versioning must be on
+	Must be enabled by the root account
+	Can only be enabled with the CLI
+	S3 Logging to another bucket
+	S3 replication
+		enable versioning on source & destination
+		Cross-Region Replication - CRR
+		Same Region Replication - SRR
+		Requires IAM permission
+		Only after replicating new objects will be copied.
+		Delete marker options may not be replicated.'
+	S3 Storage Classes
+	
 	
