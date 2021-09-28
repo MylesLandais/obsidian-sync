@@ -228,5 +228,28 @@ Advanced S3 & Athena
 		Only after replicating new objects will be copied.
 		Delete marker options may not be replicated.'
 	S3 Storage Classes
+		S3 Standard - General Purpose
+			content distribution and application data.
+		S3 Standard-Infrequent Access (IA)
+			disaster recovery and backups
+		S3 One Zone-Infrequent Access
+			secondary backup copies
+		S3 Intelligent Tiering
+			auto tiering fee
+		Glacier
+			90 day minimum, long term retention (10/years, no access)
+		Glacier Deep Archive
+			Long term cheap storage
+	S3 Lifecycle Rules
+		Transition Actions - Arcive old data
+		Expiration Actions - Remove old data
+	S3 - KMS limitation
+		SSE-KMS has a per second quota and to raise it you must make a request through amazon
+	S3 Byte-Range Fetches can be used to download a single file in parallel
+	S3 event notifications can update lambda functions, SNS or SQS
+	Requester Pays can be setup for large enterprises that can force the requester to pay the cost of downloading from buckets
+[[AWS Athena]]
+	Servless analytics platfrom
+
 	
 	

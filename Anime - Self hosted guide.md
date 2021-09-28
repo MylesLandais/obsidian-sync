@@ -2,18 +2,18 @@
 
 Root Folder Structure
 
-data
-	/anime
-		/anime-tv
-		/anime-movies
-	/downloads
-		/anime-tv
-		/anime-movies
-	
+	data
+		/anime
+			/anime-tv
+			/anime-movies
+		/downloads
+			/anime-tv
+			/anime-movies
 
-	For hardlinks download and anime must be in the same under the same root volume
-	
-	Generally you can use docker config to map /data on the containers to your root data folder 
+
+		For hardlinks download and anime must be in the same under the same root volume
+
+		Generally you can use docker config to map /data on the containers to your root data folder 
 
 DHCP Reservations & Static IP Address
 
@@ -41,10 +41,17 @@ Radarr
 	Create a duplicate instance after the app installed
 	
 Sonarr
-
 	Monitor and Search for Shows easily
-
 	Run multiple instances by changing the port maps
+	Download Clients
+		Torrent
+			Initial Start State - Paused 
+			> mostly personaly choice for troubleshooting
+			
+WorkFlow
+	Search for anime-tv or anime-movies  
+
+
 	
 - misc
 - https://youtu.be/h9j89L8eQQk
