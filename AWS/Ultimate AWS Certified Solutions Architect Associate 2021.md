@@ -88,7 +88,7 @@
 			Time to complete requests while un-healthy. Stop sending new requrests to the instance while de-registering
 			![[Pasted image 20210825111212.png]]
 			Disabled with value 0, max time 1 hour
-			
+			You and your colleague are working on an application that's interacting with some AWS services through making API calls. Your colleague can run the application on his machine without issues, while you get API Authorization Exceptions. What should you do?
 	Auto Scaling Groups
 		Scale out or in to match load demands while registering new machines with load blanacers
 		Attributes
@@ -248,8 +248,41 @@ Advanced S3 & Athena
 	S3 Byte-Range Fetches can be used to download a single file in parallel
 	S3 event notifications can update lambda functions, SNS or SQS
 	Requester Pays can be setup for large enterprises that can force the requester to pay the cost of downloading from buckets
-[[AWS Athena]]
-	Servless analytics platfrom
-
+	S3 select & Glacier select. perform SQL-like filtering on data to transfer the only information you are looking for.
 	
+[[AWS Athena]]
+	Serverless analytics platfrom, using presto
+	SQL to quert the files using JD/ODBC driver, supporting CSV, JSON
+	Analyze data directly on S3 => athena
+[[AWS CloudFront]]
+	Amazon managed Content Delivery Network with 200+ edge locations providing content closer to users.
+	DDoS protection integrated with Shield and WAF
+	**Cloud Front - Origins**
+		S3 Bucket - Distribute files and caching at the edge
+			Enhanced security with Origin access Identity
+		Custom Origin HTTP
+			Application load balancer
+			EC2 instance
+			S3 / Static Website
+	Geo Restriction
+		Can whitelist/blacklist to allow or prevent content from locations, based on a third part geo-ip database.
+		Use Case - Copyright Laws restricting content access
+	CloudFront is better for caching static content / S3 Cross Reigon replication is better for dynamic content at low latency
+	Signed Urls + Cookies
+		Attach a policy with url expiration, access, trusted signers.
+		Signed URL for individual files
+		Signed Cookies = access to multiple files
+		Advantage over S3 Pre-signed urls do not have cachine/limited lifecycle.
+	CloudFront Pricing varies per reigon, and more traffic pays less.
+		All Reigons - Best performance (AU+Nz)
+		200 - Most Reigons/ excluding most expensive (includes india)
+		100 - Least expensive. (US/EU)
+	Multiple Origin, Route based on content type and patterns
+	Origin Groups, can be used for fallover if cloudfront gets an error status code from the origin it will try a secondary. 
+	Field Level Encryption - Specify set of fields in POST requests that you want to be encrypted (you may specify the public key to encrypt them)
+[[AWS Global Accelerator]]
+	Use case for scaling user capacity globally, the number of hops between global users and your ALB may increase latency.
+	**unicast iP** one server holds one ip address
+	**anycast ip** all servers hold the same ip address, user routed to the nearest server.
+	Leverage 2 Anycast IP to send clients to the nearest Edge and use the amazon private network to reduce the number of hops to your endpoint (usually a load balancer)
 	
