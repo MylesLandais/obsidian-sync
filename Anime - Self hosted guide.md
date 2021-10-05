@@ -56,3 +56,9 @@ WorkFlow
 - misc
 - https://youtu.be/h9j89L8eQQk
 	- video on banding
+
+https://www.bulkrenameutility.co.uk/
+
+Filebot
+
+https://www.shanaproject.com/

@@ -4,8 +4,9 @@ GJM Trumps
 Web + SubsPlease
 
 animebytes
-[holomux] count: 1 (not in anidb...)
+[holomux] count: 2 (not in anidb...)
 
 Pref Eng/Dual Audio
+-ZR-
 LostYears
 Golumpa

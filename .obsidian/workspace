@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "best anime groups.md",
+            "file": "bgp.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anime groups",
+                "query": "bgp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "best anime groups.md",
+                "file": "bgp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "72ba0d060319ce1e",
   "lastOpenFiles": [
-    "best anime groups.md",
     "Untitled 1.md",
-    "shoko-anime-library settings.md",
-    "Anime - Self hosted guide.md",
-    "Network UPS Tools Server.md",
-    "Mechanical Keybaords.md",
     "Toolkit.md",
-    "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
-    "2021-09-22.md",
-    "2021-09-21.md"
+    "2021-10-02.md",
+    "Comptia Cybersecurity Analyst (Cysa).md",
+    "2021-10-01.md",
+    "Reading List.md",
+    "Library/Reading Lists.md",
+    "shoko-anime-library settings.md",
+    "Anime Watchlist.md",
+    "Magnesium.md"
   ]
 }
