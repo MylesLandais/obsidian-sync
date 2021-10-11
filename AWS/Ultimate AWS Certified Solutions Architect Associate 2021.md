@@ -285,4 +285,27 @@ Advanced S3 & Athena
 	**unicast iP** one server holds one ip address
 	**anycast ip** all servers hold the same ip address, user routed to the nearest server.
 	Leverage 2 Anycast IP to send clients to the nearest Edge and use the amazon private network to reduce the number of hops to your endpoint (usually a load balancer)
+[[AWS Snow]]
+	Collect and process data for aws cloud migrations
+	Time to transfer 10 TB over 10Gbps = 3 hours
+	If it takes more than 7 days, its recommended to use snowball devices
+	(represented as table)
+	| Edge | Cone | Mobile |
+	| ---- | ---- | ------ |
+	| 8tb  | 80tb | <100PB |
+	Snowball Edge 
+			pay per data transfer job
+			storage optimized 80tb
+			edge compute 42TB
+			*use case - large migration, DC de-comision*
+		Snowcone
+			rugged small portable
+			8tbs
+			space constrained devices
+		Snowmobile
+			Truck exabytes of data.
+	edge computing - processing on-location before sending over network. Use-Case limited throughput + processing
+	Snowball into Glacier with lifecycle policies
+Hybrid Cloud Storage Solutions
+	[[AWS Storage Gateway]]
 	
