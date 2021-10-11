@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bgp.md",
+            "file": "System Design Interview.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "9e2966aa52528d7e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "System Design Interview.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bgp",
+                "query": "10-0",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bgp.md",
+                "file": "System Design Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +99,15 @@
   },
   "active": "72ba0d060319ce1e",
   "lastOpenFiles": [
+    "System Design Interview.md",
+    "Untitled 2.md",
     "Untitled 1.md",
+    "2021-10-08.md",
+    "2021-10-06.md",
+    "bgp.md",
     "Toolkit.md",
     "2021-10-02.md",
     "Comptia Cybersecurity Analyst (Cysa).md",
-    "2021-10-01.md",
-    "Reading List.md",
-    "Library/Reading Lists.md",
-    "shoko-anime-library settings.md",
-    "Anime Watchlist.md",
-    "Magnesium.md"
+    "2021-10-01.md"
   ]
 }
