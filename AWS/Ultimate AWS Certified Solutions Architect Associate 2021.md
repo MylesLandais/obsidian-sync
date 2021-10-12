@@ -286,3 +286,5 @@ Advanced S3 & Athena
 	**anycast ip** all servers hold the same ip address, user routed to the nearest server.
 	Leverage 2 Anycast IP to send clients to the nearest Edge and use the amazon private network to reduce the number of hops to your endpoint (usually a load balancer)
 	
+	
+	[[storage]]

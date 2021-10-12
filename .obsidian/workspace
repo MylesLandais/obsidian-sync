@@ -9,19 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System Design Interview.md",
+            "file": "Storage Gateway.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "9e2966aa52528d7e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "System Design Interview.md",
-            "mode": "preview"
           }
         }
       }
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "10-0",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design Interview.md",
+                "file": "Storage Gateway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +88,15 @@
   },
   "active": "72ba0d060319ce1e",
   "lastOpenFiles": [
-    "System Design Interview.md",
+    "Storage Gateway.md",
     "Untitled 2.md",
+    "Volume Gateway.md",
+    "File Gateway.md",
+    "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+    "2021-10-11.md",
+    "System Design Interview.md",
     "Untitled 1.md",
     "2021-10-08.md",
-    "2021-10-06.md",
-    "bgp.md",
-    "Toolkit.md",
-    "2021-10-02.md",
-    "Comptia Cybersecurity Analyst (Cysa).md",
-    "2021-10-01.md"
+    "2021-10-06.md"
   ]
 }
