@@ -57,6 +57,7 @@ misc
 - https://youtu.be/h9j89L8eQQk
 	- video on banding
 
+<<<<<<< HEAD
 (releases.moe) https://docs.google.com/spreadsheets/d/1emW2Zsb0gEtEHiub_YHpazvBd4lL4saxCwyPhbtxXYM/htmlview#
 
 Getting into BakaBT
@@ -64,3 +65,10 @@ Getting into BakaBT
 Join #bakabt-invites 
 /queue to join the queue
 Use /queueStatus to Know how many People Are In queue
+=======
+https://www.bulkrenameutility.co.uk/
+
+Filebot
+
+https://www.shanaproject.com/
+>>>>>>> 96bd4bfc2ad2ab77cff1007055d9ba12baea129e

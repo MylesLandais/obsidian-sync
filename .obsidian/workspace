@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Network UPS Tools Server.md",
+            "file": "Storage Gateway.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network UPS Tools Server.md",
+                "file": "Storage Gateway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "72ba0d060319ce1e",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Mechanical Keybaords.md",
-    "Anime - Self hosted guide.md",
-    "Toolkit.md",
+    "Storage Gateway.md",
+    "Untitled 2.md",
+    "Volume Gateway.md",
+    "File Gateway.md",
     "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
-    "2021-09-22.md",
-    "2021-09-21.md",
-    "Daily Notes/2021-08-09.md",
-    "Try Harder.md",
-    "Algorithms.md"
+    "2021-10-11.md",
+    "System Design Interview.md",
+    "Untitled 1.md",
+    "2021-10-08.md",
+    "2021-10-06.md"
   ]
 }

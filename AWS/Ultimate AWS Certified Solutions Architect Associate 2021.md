@@ -285,6 +285,7 @@ Advanced S3 & Athena
 	**unicast iP** one server holds one ip address
 	**anycast ip** all servers hold the same ip address, user routed to the nearest server.
 	Leverage 2 Anycast IP to send clients to the nearest Edge and use the amazon private network to reduce the number of hops to your endpoint (usually a load balancer)
+<<<<<<< HEAD
 [[AWS Snow]]
 	Collect and process data for aws cloud migrations
 	Time to transfer 10 TB over 10Gbps = 3 hours
@@ -309,3 +310,8 @@ Advanced S3 & Athena
 Hybrid Cloud Storage Solutions
 	[[AWS Storage Gateway]]
 	
+=======
+	
+	
+	[[storage]]
+>>>>>>> 96bd4bfc2ad2ab77cff1007055d9ba12baea129e

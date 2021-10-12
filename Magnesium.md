@@ -23,3 +23,6 @@ https://pubmed.ncbi.nlm.nih.gov/29425476/
 Jigsaw Health MagSRT (B-Free) - Slow Release Magnesium Supplement, 240 Tablets
 
 MG Magnesium Breakthrough
+
+
+https://www.reddit.com/r/Biohackers/comments/pz6vcm/magnesium_malate_helps_my_chronic_tight_muscles/
