@@ -309,9 +309,11 @@ Advanced S3 & Athena
 	Snowball into Glacier with lifecycle policies
 Hybrid Cloud Storage Solutions
 	[[AWS Storage Gateway]]
+	[[Aws Transfer Family]]
 	
 =======
 	
 	
 	[[storage]]
 >>>>>>> 96bd4bfc2ad2ab77cff1007055d9ba12baea129e
+
