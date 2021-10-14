@@ -1,3 +1,6 @@
+# SCALE FROM ZERO TO MILLIONS OF USERS
+
+
 Figure 1.1 single server setup
 ```mermaid
 graph LR

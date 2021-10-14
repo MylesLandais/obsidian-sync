@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Storage Gateway.md",
+            "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ultimate aws",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,11 +48,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 395
+    "width": 395,
+    "collapsed": true
   },
   "right": {
     "id": "abfaa17789b05827",
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storage Gateway.md",
+                "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +90,15 @@
   },
   "active": "72ba0d060319ce1e",
   "lastOpenFiles": [
+    "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+    "AWS/Simple Query Service.md",
+    "System Design Interview.md",
     "Storage Gateway.md",
     "Untitled 2.md",
     "Volume Gateway.md",
     "File Gateway.md",
-    "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
     "2021-10-11.md",
-    "System Design Interview.md",
     "Untitled 1.md",
-    "2021-10-08.md",
-    "2021-10-06.md"
+    "2021-10-08.md"
   ]
 }

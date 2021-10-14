@@ -317,3 +317,137 @@ Hybrid Cloud Storage Solutions
 	[[storage]]
 >>>>>>> 96bd4bfc2ad2ab77cff1007055d9ba12baea129e
 
+
+# Decoupling applications (sqs, sns, kinesis, active MQ)
+## [[Simple Query Service]]
+Consumer Model, does not perserve 
+Use case; Decouple between application tiers
+
+```mermaid
+graph LR
+
+ProducerA ===> Q
+
+ProducerB ===> Q
+
+ProducerC ===> Q
+
+Q ===> ConsumerA
+
+Q ===> ConsumerB
+
+Q ===> ConsumerC
+```
+Where Q is the MessageQueue
+
+SQS Access Policies are similar to S3 Bucket Policies
+
+Ulimited Throughput
+Default retention 4 Days -> 14 days
+
+**Message Visibility Timeout**, If a message is not processed within the visivility timeout it will be processed twice, A consumer could call the ChangeMessageVisibility API to get more time. If timeout too high could cause delays in processing, too low may cause dupes.
+
+**dead letter queue** if a consumer fails to process withing the visibilitytimeout, maximumrecieves goes into a deadletter queue for helpful with debugging
+
+**Producing Messages**
+Using the SDK SendMessage API, The message is persistant in queue till removed by consumer.
+
+Example Send order information to be processed.
+
+**Consuming Messages**
+poll sqs for messages, can recieve in batches (10)
+this may be a lambda function to insert into RDS
+Remove message after processing
+cosumer can recieve in processed in parallel
+At least one delivert and Best Effort messagin
+
+**Queue Access Policy**
+Cross Account Access
+Write in json.
+
+**Request-Reponse**
+```mermaid
+graph LR
+
+producer --> q
+q --> reponders
+responders --responds--> q
+q --forward response--> producer
+```
+
+This pattern uses the SQS Temporary Queue Client
+Leverages Virtual queues instead of creating/deleting SQS queues (cost effective)
+
+**Delay Queue**
+Use Case - Wait 15 minuets 
+
+**FIFO Queue**
+first in first out
+name queues suffix witf `.fifo`
+
+SQS Auto Scaling Groups
+
+## [[Simple Notification Service]]
+Publish/Subscribe model
+ Event Producer sends message to One Topic, Event Recievers can subscrbe to listen to topics.
+ Subscribers can be
+ 	- Sqs
+	- HTTP(s) endpoints
+	- Lambda
+Features
+	- Encryption similar to SQS
+	- 
+### Publishing to SNS
+Use the Topic Publish SDK or Direct Publish SDK
+
+SNS + SQS: Fan out
+```mermaid
+graph LR
+
+Serivce --> SNS
+SNS --> A_Queue
+SNS --> B_Queue
+A_queue --> A_Service
+B_queue --> B_service
+```
+
+Full decoupled architecture where you can push once to SNS recieve through queue subscriptions, 
+
+### Sns FIFO
+```mermaid
+graph
+producer --sends message--> NotificationService
+subscriber --recieves message--> Notification Service
+```
+Similar to the SQS Fifo
+	- Ordering messages
+	- De-duplication
+	- Can only have SQS.FIFO queues as subscribers (for fan-out)
+
+### Message Filtering
+Json policies used to filter messages sent to SNS topic subscriptions
+If a subscription does not have a filter policy it will allow all messages.
+
+## [[Kinesis Data Streams]]
+collect, process, 
+streams cotain shards
+
+producers, applications or client using SDK send record with partition key + data blob
+cosumers can be an app, lambda function, kinesis data firehose, or data anyltics
+
+Billing per shard provisioned, retention between 1-365days
+ability to reprocess data.
+kinesis data is immutabile.
+Ordering Data into Kinesis,  ID's can be set as a partition key 
+**firehose**
+generally reads records from data stream 1MB at a time, can transform data using lambda and attempts to batch writes efficently to destinations such as s3. redshift or elastic search, but also third parties like splunk, new relic, mongo, and datadog. 
+ **Kineses Data Anayltics**
+ Sql prcoessing in real time to destinations
+## [[Amazon MQ]]
+Traditional applications running from on premise may use open-protocols such as MQTT, AMQP, or STOMP
+
+Without re-architecting your application you can adopt Amazon MQ
+High  Availability uses EFS on the back end and has an MQ broken in multiple availability zones. Cleint will need to send requests to the failover node.
+
+# Containers
+##[[docker]] and [[Ecs]]
