@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+            "file": "2021-10-18.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ultimate aws",
+                "query": "system design interview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 395,
-    "collapsed": true
+    "width": 395
   },
   "right": {
     "id": "abfaa17789b05827",
@@ -70,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+                "file": "2021-10-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +88,15 @@
   },
   "active": "72ba0d060319ce1e",
   "lastOpenFiles": [
+    "Untitled 3.md",
+    "2021-10-15.md",
+    "System Design Interview.md",
+    "MIT 6.001 Introduction to Computer Science and Programming in Python.md",
+    "2021-10-03.md",
+    "Untitled 2.md",
     "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
     "AWS/Simple Query Service.md",
-    "System Design Interview.md",
     "Storage Gateway.md",
-    "Untitled 2.md",
-    "Volume Gateway.md",
-    "File Gateway.md",
-    "2021-10-11.md",
-    "Untitled 1.md",
-    "2021-10-08.md"
+    "Volume Gateway.md"
   ]
 }
