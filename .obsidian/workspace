@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "72ba0d060319ce1e",
+        "id": "9606414d1ab51cc1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-10-18.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -48,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-10-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,6 +75,14 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "5196ed98cad64751",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ]
       }
@@ -86,17 +91,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "72ba0d060319ce1e",
+  "active": "9606414d1ab51cc1",
   "lastOpenFiles": [
-    "Untitled 3.md",
-    "2021-10-15.md",
+    "beyond relational databases.md",
     "System Design Interview.md",
-    "MIT 6.001 Introduction to Computer Science and Programming in Python.md",
-    "2021-10-03.md",
-    "Untitled 2.md",
+    "Books I read this year.md",
+    "2021-10-18.md",
+    "2021-10-15.md",
+    "2021-10-12.md",
     "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
-    "AWS/Simple Query Service.md",
-    "Storage Gateway.md",
-    "Volume Gateway.md"
+    "Aws Transfer Family.md",
+    "AWS Storage Gateway.md",
+    "2021-10-11.md"
   ]
 }
