@@ -1,3 +1,0 @@
-- NetApp
-- Windows
-- Lustre

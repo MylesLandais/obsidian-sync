@@ -1,0 +1,6 @@
+- NetApp
+- Windows
+	- Provides SMB
+	- Can be joined to an Active Directory Domain
+	- 
+- Lustre

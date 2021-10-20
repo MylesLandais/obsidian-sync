@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-10-18.md",
+            "file": "DynamoDB.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "system design interview",
+                "query": "dynamo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-10-18.md",
+                "file": "DynamoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "72ba0d060319ce1e",
   "lastOpenFiles": [
+    "DynamoDB.md",
+    "EC2.md",
     "Untitled 3.md",
-    "2021-10-15.md",
-    "System Design Interview.md",
-    "MIT 6.001 Introduction to Computer Science and Programming in Python.md",
-    "2021-10-03.md",
-    "Untitled 2.md",
     "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
     "AWS/Simple Query Service.md",
-    "Storage Gateway.md",
-    "Volume Gateway.md"
+    "AWS/Elastic Block Volume.md",
+    "Amazon S3 transfer acceleration.md",
+    "AWS/Amazon S3 - Cloud Object Storage.md",
+    "AWS web application firewall.md",
+    "Load Balancing.md"
   ]
 }

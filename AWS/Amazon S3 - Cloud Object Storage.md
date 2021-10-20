@@ -13,3 +13,5 @@ service that combines secure, highly available hardware and software to provide 
 
 CORS
 https://docs.aws.amazon.com/AmazonS3/latest/dev/cors.html
+
+[[Amazon S3 transfer acceleration]] can be used to accelerate transfer terabytes accross continents
