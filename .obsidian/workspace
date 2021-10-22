@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "75e0f1ded0d3de81",
+    "type": "split",
+    "children": [
+      {
+        "id": "72ba0d060319ce1e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "cloudwatch.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2bf5f4b5168aee2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d84fb467b07a93d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bee09387d192d155",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3814f5844bbda0c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "CloudWatch",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 395
+  },
+  "right": {
+    "id": "abfaa17789b05827",
+    "type": "split",
+    "children": [
+      {
+        "id": "090209a544c28a2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d6dcdbb81a0db00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cloudwatch.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "72ba0d060319ce1e",
+  "lastOpenFiles": [
+    "cloudwatch.md",
+    "EC2.md",
+    "2021-10-21.md",
+    "DynamoDB.md",
+    "conflict-files-obsidian-git.md",
+    "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+    "AWS/Simple Query Service.md",
+    "AWS/Elastic Block Volume.md",
+    "Amazon S3 transfer acceleration.md",
+    "AWS/Amazon S3 - Cloud Object Storage.md"
+  ]
+}
