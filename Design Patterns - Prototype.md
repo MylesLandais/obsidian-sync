@@ -1,0 +1,1 @@
+When creating an object is time-consuming and a costly affair and you already have a most similar object instance in hand, then you go for a prototype pattern. Instead of going through a time-consuming process to create a complex object, just copy the existing similar object and modify it according to your needs.

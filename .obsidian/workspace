@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+            "file": "Design Patterns - Abstract Factory.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+                "file": "Design Patterns - Abstract Factory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +96,7 @@
   },
   "active": "9606414d1ab51cc1",
   "lastOpenFiles": [
+    "Untitled 3.md",
     "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
     "beyond relational databases.md",
     "System Design Interview.md",
@@ -105,7 +105,6 @@
     "2021-10-15.md",
     "2021-10-12.md",
     "Aws Transfer Family.md",
-    "AWS Storage Gateway.md",
-    "2021-10-11.md"
+    "AWS Storage Gateway.md"
   ]
 }
