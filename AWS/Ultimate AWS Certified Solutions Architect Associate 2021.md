@@ -451,4 +451,35 @@ High  Availability uses EFS on the back end and has an MQ broken in multiple ava
 
 # Containers
 ##[[docker]] and [[Ecs]]
-i
+Docker manages platforms to deploy apps in containers
+
+Containers are created from Docker Images stored in Docker Repositories
+	hub.docker.com
+	Elastic Container Registry can store Docker Images on AWS
+
+Containers Versus Virtual Machines
+![[Pasted image 20211023091228.png]]
+
+[[ECS]]
+Deploy docker conatiners to EC2 instances
+Launch Types
+ECS agent running on EC2 instances in an auto-scaling group
+
+[[Fargate]]
+Launch without provisioning EC2 instances.
+AWS runs the container for us, hiding the EC2/infrastucture.
+Binds a task to an ENI
+
+IAM Roles for ECS Tasks
+EC2 instance profile Used by ECS agent, sends logs to cloud watch, and retrieve secrets from Secrets Managers
+
+ECS Task Role - Allow each task to have a specific role with a task definition. This could be providing access to a database for example.
+
+ECS Data Volumes - EFS file Systems
+Tasks can create a mont point to th EFS filesystem
+
+ECS Sevices and Tasks
+Application Load balancer can point to services existing on multiple tasks
+
+
+[[EKS]]
