@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Design Patterns - Abstract Factory.md",
+            "file": "Comptia Cybersecurity Analyst (Cysa).md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ultimate",
+                "query": "security plus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns - Abstract Factory.md",
+                "file": "Comptia Cybersecurity Analyst (Cysa).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +97,7 @@
   },
   "active": "9606414d1ab51cc1",
   "lastOpenFiles": [
+    "Comptia Cybersecurity Analyst (Cysa).md",
     "Untitled 3.md",
     "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
     "beyond relational databases.md",
@@ -104,7 +106,6 @@
     "2021-10-18.md",
     "2021-10-15.md",
     "2021-10-12.md",
-    "Aws Transfer Family.md",
-    "AWS Storage Gateway.md"
+    "Aws Transfer Family.md"
   ]
 }
