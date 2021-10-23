@@ -468,7 +468,7 @@ ECS agent running on EC2 instances in an auto-scaling group
 [[Fargate]]
 Launch without provisioning EC2 instances.
 AWS runs the container for us, hiding the EC2/infrastucture.
-Binds a task to an ENI
+Binds a task to an ENI, Must allow the task port in ALB security policy
 
 IAM Roles for ECS Tasks
 EC2 instance profile Used by ECS agent, sends logs to cloud watch, and retrieve secrets from Secrets Managers
@@ -480,6 +480,25 @@ Tasks can create a mont point to th EFS filesystem
 
 ECS Sevices and Tasks
 Application Load balancer can point to services existing on multiple tasks
+[[Amazon Event Bridge]] - Rules targets fargate task role creation
 
+ECS Scaling
+[[CloudWatch Metric ]]for ECS service CPU useage can trigger a [[CloudWatch Alarm]] for your AutoScaling Group to add a new tasks, If Maxed out and Type set to EC2 instances will add EC2.
 
-[[EKS]]
+Auto Scaling group can poll [[Simple Query Service]] and the [[CloudWatch Metric]] (Queue Length) to trigger the [[CloudWatch Alarm]] for Scaling 
+
+ECS rolling updates
+when migrating from v1 to v2
+min/max capacity 50/100 or 100/150
+150 for over scalling to not lose 100% capacity. 
+
+[[Elastic Container Registry]]
+Images backed up by S3 and features vulnerability scanning and lifecycle tagging
+
+[[CodeBuild]] could create images and store them to ECR
+
+[[Amazon Elastic Kubernetes Service]]
+For those who want a managed kubernetes server, or migrating existing kubernetes
+
+EKS worker nodes contain EKS PODS, exposing services using ELB and NGW.
+
