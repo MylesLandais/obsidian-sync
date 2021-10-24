@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Comptia Cybersecurity Analyst (Cysa).md",
+            "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "security plus",
+                "query": "ultimate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395
+    "width": 395,
+    "collapsed": true
   },
   "right": {
     "id": "abfaa17789b05827",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comptia Cybersecurity Analyst (Cysa).md",
+                "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +98,9 @@
   },
   "active": "9606414d1ab51cc1",
   "lastOpenFiles": [
+    "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
     "Comptia Cybersecurity Analyst (Cysa).md",
     "Untitled 3.md",
-    "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
     "beyond relational databases.md",
     "System Design Interview.md",
     "Books I read this year.md",

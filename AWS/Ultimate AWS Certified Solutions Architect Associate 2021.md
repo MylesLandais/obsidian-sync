@@ -69,10 +69,8 @@
 			- Health cheack at either level
 			- fixed hostname
 		Stickiness - The client will continue to connect to the same instance behind the load balancer. Used to maintain session data. May cause an imablance. (duration up to 7days)
-
 		Cross Zone Balancing - Each load balancer will distribute across all AZ's
 		![[Pasted image 20210825105223.png]]
-
 		SSL/TLS Certificates
 			Secure Socket Layer - used to enctrypt connections
 			Transport Layer Security - newer version, mainly used.
@@ -83,7 +81,6 @@
 			managed using AWS Cert Manager, where you can upload your own certs
 			Server Name Indication - Solves the problem of loading multiple certificates onto one web server to server multiple websites
 			Multiple Certs is supported by ALB and NLB (Not v1 classic)
-
 		Connection Draining or Deregistration Delay
 			Time to complete requests while un-healthy. Stop sending new requrests to the instance while de-registering
 			![[Pasted image 20210825111212.png]]
@@ -501,4 +498,17 @@ Images backed up by S3 and features vulnerability scanning and lifecycle tagging
 For those who want a managed kubernetes server, or migrating existing kubernetes
 
 EKS worker nodes contain EKS PODS, exposing services using ELB and NGW.
+
+---
+
+Serverless - Functions as a service generally leveraging
+
+[[aws lambda]] [[DynamoDB]] [[cognito]] [[api gateway]] [[amazon s3]]
+
+AWS Lambda - Virtual functions ran on demand that typically take less than 15 minutes to run
+Pay by requests and compute time, tightly integrated with AWS services
+
+Use Case - Generate thumbnails on file uploads
+Use Case - Serverless CRON jobs
+	CloudWatch event rule (time every hour) to run function
 
