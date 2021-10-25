@@ -513,3 +513,50 @@ Use Case - Serverless CRON jobs
 	CloudWatch event rule (time every hour) to run function
 
 _Hands on lab configure and deploy the hello world python lambda example_
+
+**Limitations of Lambda**
+900Seconds = 15 minutes run time
+4kb env variable size
+/tmp 512mb size
+1000 concurrent executions
+Functions compressed 50mb 250mb uncompressed
+
+Lambda at the Edge
+CDN using CloudFront can run lambda functions for better response times globally
+Generate View responses/requests without sending to origin
+
+[[DynamoDB]]
+Managed data across multiple AZ's
+NoSql (not relational)
+Tables have a primary key, infinite number of row
+column attributes can be added at any time
+Size of an item can be 400kb
+data types
+	Scalar
+	Document
+	Set
+Primary Key can be a combination of multiple Key's
+Read/Write capacity throughput
+	provisioned mode
+		specify read/writes per second
+		pay per provisioned capacity units RCU/WCU
+		AutoScaling for RCU/WCU
+	on-demand mode
+		auto scaling based on workloads
+		no capacity planning
+		pay for what you use
+		most expensive
+		advised for unpredictable workloads
+DynamoDB Accelerator (DAX) - In memory cache that solves read bottlenecks
+DynamoDB Streams - Ordered steam of item-level modifications in a table (crud)
+	can be sent to labda or kinesis
+	Use Case
+		React to changes in real time
+		analytics
+		data transformation
+Global Tables accesoble for low latency globally
+	read write to any table globally with replicating across reigons
+	must enable dynamodb streams
+TTL - Automatically delete items after an expiry time
+Indexes - Global Secondary Indexs, Local Seconday Indexes allow you to query on attributes other than the primary key.
+Transactions 
