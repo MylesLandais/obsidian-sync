@@ -559,4 +559,34 @@ Global Tables accesoble for low latency globally
 	must enable dynamodb streams
 TTL - Automatically delete items after an expiry time
 Indexes - Global Secondary Indexs, Local Seconday Indexes allow you to query on attributes other than the primary key.
-Transactions 
+Transactions - Write to multiple or no tables at the same time. (update account_balance, and bank_transactions at the same time)
+
+[[api gateway]]
+Support for WebSocket Protocols
+Multiple Enviornments and API Versioning
+Authentication and Authorication handeling
+API Keys for request throttling
+Swagger/ OPen API imports for api definition
+Cache API Reponses
+
+Integrates with
+Lambda functions to exposing Rest API
+exposing http endpoints 
+
+**Security**
+IAM Permissions
+	Create an IAM policy authorization and attatch to User/Role
+	Gateway will verify IAM permissions
+	Sig v4 contains iam creds in headers
+Labmda Auth (Custom Authorizers)
+	Verify auth with lambda and cache results
+	Using OAuth, SAML, 3rd party auth providers
+	Must return an IAM Policy for the user
+[[Cognito User Pools]]
+	Manage user lifecycle
+	API gateway verifies with AWS cognito
+	**Helps with authentication, not authorization**
+	Creates a database of users, verify emails/phone numbers with MFA
+	using Facebook or google for users and other federated identities
+	provides json web tokens 
+	
