@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+            "file": "2021-10-24.md",
             "mode": "source"
           }
         }
@@ -48,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 395,
-    "collapsed": true
+    "width": 395
   },
   "right": {
     "id": "abfaa17789b05827",
@@ -70,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+                "file": "2021-10-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,9 +96,9 @@
   },
   "active": "9606414d1ab51cc1",
   "lastOpenFiles": [
+    "Untitled 3.md",
     "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
     "Comptia Cybersecurity Analyst (Cysa).md",
-    "Untitled 3.md",
     "beyond relational databases.md",
     "System Design Interview.md",
     "Books I read this year.md",
