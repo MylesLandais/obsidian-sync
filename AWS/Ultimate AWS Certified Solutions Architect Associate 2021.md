@@ -589,4 +589,8 @@ Labmda Auth (Custom Authorizers)
 	Creates a database of users, verify emails/phone numbers with MFA
 	using Facebook or google for users and other federated identities
 	provides json web tokens 
-	
+
+[[Serverless Application Model (SAM)]]
+Framework for deploying applications in yaml
+Integrates with [[CodeDeploy]]
+
