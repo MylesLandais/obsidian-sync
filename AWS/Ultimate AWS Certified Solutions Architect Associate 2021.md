@@ -512,3 +512,4 @@ Use Case - Generate thumbnails on file uploads
 Use Case - Serverless CRON jobs
 	CloudWatch event rule (time every hour) to run function
 
+_Hands on lab configure and deploy the hello world python lambda example_
