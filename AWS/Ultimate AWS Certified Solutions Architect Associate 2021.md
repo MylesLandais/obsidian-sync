@@ -594,3 +594,30 @@ Labmda Auth (Custom Authorizers)
 Framework for deploying applications in yaml
 Integrates with [[CodeDeploy]]
 
+---
+
+**Lab - todo application**
+api gateway to lambda functions crud to dynamodb
+auth with cognito
+
+Give users access to S3 with cognito, generating temp creds with STS
+
+high read throughput, static data - DAX caching layer to improve performance, caching can also be done at the API gateway.
+
+**Lab - Servless hosted website**
+Mostly static files, some API interactions
+
+expose s3 bucket through cloudfront, Use Origina Access Idenetity to secure S3 bucket. 
+
+Welcome Email flow, when they subscribe trigger DynamoDB Stream to invoke lambda function with IAM role for [[Amazon Simple Mail Service (SES)]] using the SDK to send email.
+
+**Micro Service Architecture**
+design services independently of each other.
+each service requires optimizing and overhead
+
+**Lab - Distributing paid content**
+Keep table of permium users, and provide an Auth method
+Store premium content, S3 and OAI can authorize bucket policies.
+Cognito can use api gateway and lamda functions to create signed urls for premium users with an expiration time.
+
+---
