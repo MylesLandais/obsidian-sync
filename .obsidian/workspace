@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+            "file": "The Beginner Malware Analysis Course  by  0verfl0w_.md",
             "mode": "source"
           }
         }
@@ -48,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 395,
-    "collapsed": true
+    "width": 395
   },
   "right": {
     "id": "abfaa17789b05827",
@@ -70,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+                "file": "The Beginner Malware Analysis Course  by  0verfl0w_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +88,7 @@
   },
   "active": "9606414d1ab51cc1",
   "lastOpenFiles": [
+    "The Beginner Malware Analysis Course  by  0verfl0w_.md",
     "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
     "2021-10-25.md",
     "Comptia Cybersecurity Analyst (Cysa).md",
@@ -98,7 +97,6 @@
     "Books I read this year.md",
     "2021-10-18.md",
     "2021-10-15.md",
-    "2021-10-12.md",
-    "Aws Transfer Family.md"
+    "2021-10-12.md"
   ]
 }
