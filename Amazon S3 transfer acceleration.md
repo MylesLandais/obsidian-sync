@@ -1,3 +1,4 @@
+tags [[awd]]
 enable the put bucket accelrate configuration to speed up your transfers to S3
 
 ```aws CLI

@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9606414d1ab51cc1",
+        "id": "930149acfc521d90",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-10-30.md",
+            "file": "System Design Interview.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "13abaf006539fdda",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Blog Ideas.md",
             "mode": "source"
           }
         }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ultimate",
+                "query": "system design",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-10-30.md",
+                "file": "Blog Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9606414d1ab51cc1",
+  "active": "13abaf006539fdda",
   "lastOpenFiles": [
+    "Blog Ideas.md",
+    "System Design Interview.md",
+    "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+    "vitamin K.md",
+    "Amazon S3 transfer acceleration.md",
+    "Pygeum.md",
     "2021-10-30.md",
     "2021-10-29.md",
     "2021-10-26.md",
-    "The Beginner Malware Analysis Course  by  0verfl0w_.md",
-    "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
-    "2021-10-25.md",
-    "Comptia Cybersecurity Analyst (Cysa).md",
-    "beyond relational databases.md",
-    "System Design Interview.md",
-    "Books I read this year.md"
+    "The Beginner Malware Analysis Course  by  0verfl0w_.md"
   ]
 }
