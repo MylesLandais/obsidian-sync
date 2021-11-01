@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System Design Interview.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "13abaf006539fdda",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Blog Ideas.md",
+            "file": "2021-11-01.md",
             "mode": "source"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog Ideas.md",
+                "file": "2021-11-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "13abaf006539fdda",
+  "active": "930149acfc521d90",
   "lastOpenFiles": [
-    "Blog Ideas.md",
+    "2021-11-01.md",
+    "AWS/Relational Database Service.md",
     "System Design Interview.md",
+    "Blog Ideas.md",
     "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
     "vitamin K.md",
     "Amazon S3 transfer acceleration.md",
     "Pygeum.md",
     "2021-10-30.md",
-    "2021-10-29.md",
-    "2021-10-26.md",
-    "The Beginner Malware Analysis Course  by  0verfl0w_.md"
+    "2021-10-29.md"
   ]
 }
