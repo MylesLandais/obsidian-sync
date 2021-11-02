@@ -12,6 +12,30 @@
             "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
             "mode": "source"
           }
+        },
+        "group": "dc36d7f3022be3eb"
+      },
+      {
+        "id": "991d3260ca487722",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+            "mode": "preview"
+          }
+        },
+        "group": "dc36d7f3022be3eb"
+      },
+      {
+        "id": "b03754a10717d642",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AWS/Relational Database Service.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -52,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395
+    "width": 395,
+    "collapsed": true
   },
   "right": {
     "id": "abfaa17789b05827",
@@ -89,8 +114,8 @@
   "active": "930149acfc521d90",
   "lastOpenFiles": [
     "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
-    "2021-11-01.md",
     "AWS/Relational Database Service.md",
+    "2021-11-01.md",
     "System Design Interview.md",
     "Blog Ideas.md",
     "vitamin K.md",

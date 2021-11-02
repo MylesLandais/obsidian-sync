@@ -630,4 +630,6 @@ Cognito can use api gateway and laLiBRiCiDEmda functions to create signed urls f
 [[Search]] Elastic Seach
 [[Graph Databases]] Neptune, relationships between data
 
-[[Relational Database Service]]
+![[Relational Database Service]]
+*use case relational database to perform queries*
+
