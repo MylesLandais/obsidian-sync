@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CCSP Resources.md",
+            "file": "2022 reading list.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sidartha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCSP Resources.md",
+                "file": "2022 reading list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +89,7 @@
   },
   "active": "930149acfc521d90",
   "lastOpenFiles": [
+    "2022 reading list.md",
     "CCSP Resources.md",
     "Certified Cloud Security Professional (CCSP).md",
     "AWS ElastiCache.md",
@@ -96,7 +98,6 @@
     "AWS/Relational Database Service.md",
     "2021-11-01.md",
     "System Design Interview.md",
-    "Blog Ideas.md",
-    "vitamin K.md"
+    "Blog Ideas.md"
   ]
 }
