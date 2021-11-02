@@ -155,7 +155,7 @@
 		capacity cost saving
 	MyClothes (case study)
 		ELB sticky sessions
-		ElasticCache
+		[[AWS ElastiCache]]
 			Storing sessions data (alternative dynamoDB)
 			Caching data from rds
 			multi-az
@@ -623,11 +623,16 @@ Cognito can use api gateway and laLiBRiCiDEmda functions to create signed urls f
 ---
 ## Databases
 **Types of Databases**
-[[Relational Databases]] includes SQL, RDS, Aurora
+[[Relational Databases]] includes SQL, RDS, [[Aurora]]
+
 [[NoSql Databasses]] includes dynamo, elasticache, neptune
+
 [[object storage]] large objects
+
 [[Data Warehousing]] - Redshift OLAP, Athena
+
 [[Search]] Elastic Seach
+
 [[Graph Databases]] Neptune, relationships between data
 
 ![[Relational Database Service]]

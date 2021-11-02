@@ -11,7 +11,7 @@ Cloud optimize to provide 3-5x performance increase over traditional database ap
 
 Features
 
-Autoscaling for disk
+Autoscaling for disks up to 128TB
 
 15 replications, more than mysql, and reduced replication lag
 
