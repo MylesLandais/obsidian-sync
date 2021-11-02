@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-11-01.md",
+            "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-11-01.md",
+                "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,15 +83,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "930149acfc521d90",
   "lastOpenFiles": [
+    "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
     "2021-11-01.md",
     "AWS/Relational Database Service.md",
     "System Design Interview.md",
     "Blog Ideas.md",
-    "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
     "vitamin K.md",
     "Amazon S3 transfer acceleration.md",
     "Pygeum.md",

@@ -618,6 +618,16 @@ each service requires optimizing and overhead
 **Lab - Distributing paid content**
 Keep table of permium users, and provide an Auth method
 Store premium content, S3 and OAI can authorize bucket policies.
-Cognito can use api gateway and lamda functions to create signed urls for premium users with an expiration time.
+Cognito can use api gateway and laLiBRiCiDEmda functions to create signed urls for premium users with an expiration time.
 
 ---
+## Databases
+**Types of Databases**
+[[Relational Databases]] includes SQL, RDS, Aurora
+[[NoSql Databasses]] includes dynamo, elasticache, neptune
+[[object storage]] large objects
+[[Data Warehousing]] - Redshift OLAP, Athena
+[[Search]] Elastic Seach
+[[Graph Databases]] Neptune, relationships between data
+
+[[Relational Database Service]]
