@@ -1,4 +1,10 @@
-A nosql database
+Proprietary NoSql database
+
+**Operations** auto-scaling capability
+**Security** through IAM policy, [[Key Management ]]
+**Reliability** through multiple availability zones, and Backups
+**Performance** 
+**Cost**
 
 # Choosing the Right DynamoDB Partition Key
 

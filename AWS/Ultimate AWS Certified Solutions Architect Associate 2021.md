@@ -638,3 +638,10 @@ Cognito can use api gateway and laLiBRiCiDEmda functions to create signed urls f
 ![[Relational Database Service]]
 *use case relational database to perform queries*
 
+![[Aurora]]
+
+![[Elasticache]]
+
+![[DynamoDB]]
+*Use case, serverless applications with small documents*
+
