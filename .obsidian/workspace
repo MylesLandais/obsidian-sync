@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "ITIL v4 foundations.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395
+    "width": 395,
+    "collapsed": true
   },
   "right": {
     "id": "abfaa17789b05827",
