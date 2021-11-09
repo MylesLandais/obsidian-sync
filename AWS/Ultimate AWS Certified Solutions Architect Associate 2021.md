@@ -645,3 +645,8 @@ Cognito can use api gateway and laLiBRiCiDEmda functions to create signed urls f
 ![[DynamoDB]]
 *Use case, serverless applications with small documents*
 
+![[AWS Redshift]]
+
+[[AWS Glue]]
+[[AWS Neptune]]
+[[AWS Open Search]]

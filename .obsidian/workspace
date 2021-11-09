@@ -9,19 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+            "file": "2022 reading list.md",
             "mode": "source"
           }
         },
         "group": "daa755e56e6e8b95"
       },
       {
-        "id": "8e024e0d9148739b",
+        "id": "a7ecf63c3a92215c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DynamoDB.md",
+            "file": "AWS Redshift.md",
             "mode": "source"
           }
         }
@@ -32,7 +32,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+            "file": "2022 reading list.md",
             "mode": "preview"
           }
         },
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ultim",
+                "query": "2022",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395,
-    "collapsed": true
+    "width": 395
   },
   "right": {
     "id": "abfaa17789b05827",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+                "file": "2022 reading list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +113,15 @@
   },
   "active": "930149acfc521d90",
   "lastOpenFiles": [
-    "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
-    "DynamoDB.md",
     "2022 reading list.md",
+    "AWS Redshift.md",
+    "AWS Open Search.md",
+    "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+    "AWS Neptune.md",
+    "AWS Glue.md",
+    "DynamoDB.md",
     "CCSP Resources.md",
     "Certified Cloud Security Professional (CCSP).md",
-    "AWS ElastiCache.md",
-    "AWS/Aurora.md",
-    "AWS/Relational Database Service.md",
-    "2021-11-01.md",
-    "System Design Interview.md"
+    "AWS ElastiCache.md"
   ]
 }
