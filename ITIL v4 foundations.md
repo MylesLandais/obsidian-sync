@@ -44,10 +44,30 @@ Optimize and automate
 
 ![[Pasted image 20211109101811.png]]
 *Represent the perspectives that apply to all services being managed*
-Organizations and people
-Information and technology - knowledge 
-Partners and suppliers 
-Value streams and processes
+
+**Organizations and people**
+	- Roles and Responsabilities
+	- cultue should support objectives
+	- workforce capacity and competence
+	- Champion leadership
+	- Skill development
+	- contribue to creating value
+**Information and technology **
+	- Workflow management
+	- knowledge bases, internal wiki, and documentation
+	- Inventory and Assets
+	- Business Analytics
+**Partners and suppliers**
+	- Organization replationship with other organizations
+**Value streams and processes**
+	- transforming inputs -> outputs
+	- Activity coordination
+	
+
+PESTLE - External constraits (the outside edge of the dimensions)
+
+Policical, Economic, Social, Technological, Legal, Environmental
+
 # service value system (SVS)
 [What is the service value system?](https://info.axiossystems.com/blog/what-is-the-itil4-service-value-system)
 ![[Pasted image 20211109100331.png]]
