@@ -4,39 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "930149acfc521d90",
+        "id": "f33066a3c2180c4f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022 reading list.md",
-            "mode": "source"
-          }
-        },
-        "group": "daa755e56e6e8b95"
-      },
-      {
-        "id": "a7ecf63c3a92215c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "AWS Redshift.md",
+            "file": "ITIL v4 foundations.md",
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "f8fff23f5b15c62b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022 reading list.md",
-            "mode": "preview"
-          }
-        },
-        "group": "daa755e56e6e8b95"
       }
     ],
     "direction": "vertical"
@@ -63,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2022",
+                "query": "itil",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022 reading list.md",
+                "file": "ITIL v4 foundations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,8 +87,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "930149acfc521d90",
+  "active": "f33066a3c2180c4f",
   "lastOpenFiles": [
+    "ITIL v4 foundations.md",
+    "2021-11-09.md",
     "2022 reading list.md",
     "AWS Redshift.md",
     "AWS Open Search.md",
@@ -120,8 +98,6 @@
     "AWS Neptune.md",
     "AWS Glue.md",
     "DynamoDB.md",
-    "CCSP Resources.md",
-    "Certified Cloud Security Professional (CCSP).md",
-    "AWS ElastiCache.md"
+    "CCSP Resources.md"
   ]
 }
