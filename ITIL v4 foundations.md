@@ -41,7 +41,9 @@ Keep it simple and practical
 Optimize and automate
 # Four Dimensions of Service Management
 [What are the Four Dimensions of ITIL 4?](https://info.axiossystems.com/blog/what-are-the-four-dimensions-of-itil-4)
+
 ![[Pasted image 20211109101811.png]]
+*Represent the perspectives that apply to all services being managed*
 Organizations and people
 Information and technology - knowledge 
 Partners and suppliers 
