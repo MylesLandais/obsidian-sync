@@ -27,7 +27,7 @@ Organization
 ![[Pasted image 20211109105204.png]]
 
 **Service offering** Good, Access to resources, and Service actions desgined to address target consumers needs.
-Service relationship management  
+**Service relationship management** combined or joined activites between providers and consumers for creating value.
 *Service provision* 
 *Service consumption* act of organizations consuming services
 
@@ -53,6 +53,7 @@ Service relationship management
 	- Outcome based thinking to produce practical solutions
 	- Minimum number of steps to acomplish an objective
 **Optimize and automate**
+	- clear vision and objectives, agree to context
 	- Cost reduction and reduced human errors
 	- technology to scale frequent and repetitive tasks
 	
@@ -118,7 +119,9 @@ h) Monitoring and event management (5.2.7)
 i) Release management (5.2.9)
 j) Service configuration management (5.2.11)
 k) Deployment management (5.3.1)
-l) Continual improvement (5.1.2)
+**Continual improvement**
+	analytical analysis leading to factual desicion making
+	
 m) Change control (5.2.4)
 n) Incident management (5.2.5)
 o) Problem management (5.2.8)
