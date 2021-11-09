@@ -3,37 +3,47 @@
 **Service** *enabling* value co-creation through customer outcomes. Without the customer having to manage specific costs and risks.
 Utility
 Warranty
-Customer
-User
+**Customer** role defines the requirements for service outcomes.
+**User** -- uses service
 **Service Management** Organizational capability to *enable* value through services
-Sponsor
+**Sponsor **role that authorizes the budget for service consumption
 ## Creating Value services 
-Cost  
-Value  
+[VOCR - Service Value Formula White Paper](https://www.axelos.com/resource-hub/white-paper/itil-4-and-vocr-the-service-value-formula)
+
+To achive **Value** the following need to be met. Together with utility and warranty you have value
+ 	**Cost** can be non-monitary terms spent on an activity or resources
+	**Outcome** a result for a stakeholder enabled by one or more outputs
+	**Risk**  possible event that could cause harm, defined as the uncertainty of an outcome with a negative outcome.
+![Figure 1.1 image of scales showing blocks of value, outcomes, costs and risk.  Left-side represents affected outcomes, right-side represents supported outcomes which is tipped in this favour](https://eu-images.contentstack.com/v3/assets/blt0bc74001569a8a62/bltb79f104c0cd5d843/60100cea4b3bc10c1955971f/figure-1-1-itil-vocr-600x521.gif)
 Organization  
-Outcome  
-Output  
-Risk  
-Utility  
-Warranty
+	
+**Output** deliverable tangible, or intangible  
+	
+**Utility**  functionality offered by a product, *fit for purpose* that removes constraints from the consumer.
+**Warranty** assurance that a product or service *fit for use* will meet agreed requirements, Availability, capacity, security, continuity
+
 ## Service Relationships
+![[Pasted image 20211109105204.png]]
+
 **Service offering** Good, Access to resources, and Service actions desgined to address target consumers needs.
 Service relationship management  
-Service provision  
-Service consumption
+*Service provision* 
+*Service consumption* act of organizations consuming services
 # ITIL guiding principles
+*recomendations for organizational service management*
+
 Focus on value 
 Start where you are 
 Progress iteratively with feedback  
 Collaborate and promote visibility
-Think and work holistically  
+Think and work holistically  end-to-end service delivery 
 Keep it simple and practical 
 Optimize and automate
 # Four Dimensions of Service Management
 [What are the Four Dimensions of ITIL 4?](https://info.axiossystems.com/blog/what-are-the-four-dimensions-of-itil-4)
 ![[Pasted image 20211109101811.png]]
 Organizations and people
-Information and technology 
+Information and technology - knowledge 
 Partners and suppliers 
 Value streams and processes
 # service value system (SVS)
@@ -41,7 +51,6 @@ Value streams and processes
 ![[Pasted image 20211109100331.png]]
 # service value chain
 [Confused About the ITIL 4 Service Value Chain?](https://info.axiossystems.com/blog/itil-4-service-value-chain)
-![[Pasted image 20211109100447.png]]
 
 ## Value Chain Activities
 **ACROYM PIEDOD**
