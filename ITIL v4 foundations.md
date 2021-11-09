@@ -6,7 +6,8 @@ Warranty
 **Customer** role defines the requirements for service outcomes.
 **User** -- uses service
 **Service Management** Organizational capability to *enable* value through services
-**Sponsor **role that authorizes the budget for service consumption
+**Sponsor** role that authorizes the budget for service consumption
+
 ## Creating Value services 
 [VOCR - Service Value Formula White Paper](https://www.axelos.com/resource-hub/white-paper/itil-4-and-vocr-the-service-value-formula)
 
@@ -29,16 +30,34 @@ Organization
 Service relationship management  
 *Service provision* 
 *Service consumption* act of organizations consuming services
+
 # ITIL guiding principles
 *recomendations for organizational service management*
 
-Focus on value 
-Start where you are 
-Progress iteratively with feedback  
-Collaborate and promote visibility
-Think and work holistically  end-to-end service delivery 
-Keep it simple and practical 
-Optimize and automate
+**Focus on value**
+	- Know who is being served and what is truly of value to consumer.
+	- Customer Experiance (CX) / User Experiance (UX)
+**Start where you are** 
+	- consider what is already being leveraged, and *avoid starting over*
+	- Measuring through direct observation
+**Progress iteratively with feedback**
+	- Not everything happens at once
+	- Small iterations are easier to manage
+	- Leverage feedback loop and evalutation cycles
+**Collaborate and promote visibility**
+	- Engaged stackholders and avoid organizational silos
+	- Unexpected sources can lead to creative solutions
+**Think and work holistically**  
+	- end-to-end service delivery 
+**Keep it simple and practical** 
+	- Outcome based thinking to produce practical solutions
+	- Minimum number of steps to acomplish an objective
+**Optimize and automate**
+	- Cost reduction and reduced human errors
+	- technology to scale frequent and repetitive tasks
+	
+
+
 # Four Dimensions of Service Management
 [What are the Four Dimensions of ITIL 4?](https://info.axiossystems.com/blog/what-are-the-four-dimensions-of-itil-4)
 
@@ -61,8 +80,7 @@ Optimize and automate
 	- Organization replationship with other organizations
 **Value streams and processes**
 	- transforming inputs -> outputs
-	- Activity coordination
-	
+	- Activity coordination	
 
 PESTLE - External constraits (the outside edge of the dimensions)
 
@@ -71,6 +89,11 @@ Policical, Economic, Social, Technological, Legal, Environmental
 # service value system (SVS)
 [What is the service value system?](https://info.axiossystems.com/blog/what-is-the-itil4-service-value-system)
 ![[Pasted image 20211109100331.png]]
+
+Key inputs for opportunity and demand
+Outcome as value created
+**Guiding Principles** recomendation guiding in all circumstances
+
 # service value chain
 [Confused About the ITIL 4 Service Value Chain?](https://info.axiossystems.com/blog/itil-4-service-value-chain)
 
