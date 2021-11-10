@@ -103,7 +103,7 @@ Outcome as value created
 ## Value Chain Activities
 **ACROYM PIEDOD**
 ![[Pasted image 20211109100459.png]]
-Plan
+**Plan** portfolio decisions, creating a shared vision that drives implementation directions for the organization. Information about the service offering performance and trends.
 Improve
 **Engage** Develop an understanding of stakeholder needs, through relationships
 Design & transition
@@ -125,10 +125,15 @@ j) Service configuration management (5.2.11)
 k) Deployment management (5.3.1)
 **Continual improvement**
 	analytical analysis leading to factual desicion making
-	
-m) Change control (5.2.4)
+	*What is the vision?* defines the improvement initiatives that align with org goals and objectives
+	*Where do we want to be?* Define in quantified metrics, Key Performance Indicators
+**Change control**
+*Changes* are for planned changes, Integration and Continual Development (CI/CD), and avoiding conflicts
+
+*Normal Changes* require risk assesment, scheduling after approval by *change authority*
 n) Incident management (5.2.5)
-o) Problem management (5.2.8)
+Problem management
+*identifty*, *problem control*, *error control.*
 p) Service request management (5.2.16)
 q) Service desk (5.2.14)
 r) Service level management (5.2.15)
@@ -148,5 +153,5 @@ Continual improvement (5.1.2,) including:
 **Incident management** minimize the impact of incident occurance with prompt resolutions
 **Problem management** Reduce the occurance of incidents through casual analysis. Managing workarounds and known issues.
 e) Service request management (5.2.16)
-**Service desk** captures demand for incident resolution and service requests
+**Service desk** provides an entry point of contact for incident resolution and service requests
 g) Service level management (5.2.15)
