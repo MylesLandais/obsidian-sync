@@ -127,9 +127,13 @@ j) Service configuration management (5.2.11)
 k) Deployment management (5.3.1)
 **Continual improvement**
 	analytical analysis with identification leading to factual desicion making driving improvements 
+	*Take Action* performing the work.
+	*Where are we now* determind current state.
 	*How do we get there?* focused on outling action plan 
 	*What is the vision?* defines the improvement initiatives that align with org goals and objectives
 	*Where do we want to be?* Define in quantified metrics, Key Performance Indicators
+	*Did we get there?* Compare to baseline, determind if goals have been met
+	*how do we keep the momentum going?*
 **Change control**
 *Changes* are for planned changes, Integration and Continual Development (CI/CD), and avoiding conflicts
 
@@ -142,6 +146,7 @@ p) Service request management (5.2.16)
 	*Deliver and support*
 q) Service desk (5.2.14)
 r) Service level management (5.2.15)
+	*customer engagement* asking customer how technology can help their work
 	*Improve* feedback from users as recommendations for improvements
 	
 ## Terminology
