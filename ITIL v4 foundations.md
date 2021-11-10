@@ -155,5 +155,5 @@ Continual improvement (5.1.2,) including:
 **Incident management** minimize the impact of incident occurance with prompt resolutions
 **Problem management** Reduce the occurance of incidents through casual analysis. Managing workarounds and known issues.
 e) Service request management (5.2.16)
-**Service desk** provides an entry point of contact for incident resolution and service requests
+**Service desk** provides an entry point of contact, capturing incident resolution and service requests
  **Service level management** targets for service performance, delivery of a service can be assesed, monitored, and managed.
