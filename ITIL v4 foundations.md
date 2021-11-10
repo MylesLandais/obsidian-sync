@@ -20,13 +20,13 @@ Organization
 	
 **Output** deliverable tangible, or intangible  
 	
-**Utility**  functionality offered by a product, *fit for purpose* that removes constraints from the consumer.
+**Utility**  defines the *functionality* offered by a product, *fit for purpose* that removes constraints from the consumer.
 **Warranty** assurance that a product or service *fit for use* will meet agreed requirements, Availability, capacity, security, continuity
 
 ## Service Relationships
 ![[Pasted image 20211109105204.png]]
 
-**Service offering** Good, Access to resources, and Service actions desgined to address target consumers needs.
+**Service offering** Goods, Access to resources, and/or Service actions desgined to address target consumers needs.
 **Service relationship management** combined or joined activites between providers and consumers for creating value.
 *Service provision* 
 *Service consumption* act of organizations consuming services
@@ -38,15 +38,16 @@ Organization
 	- Know who is being served and what is truly of value to consumer.
 	- Customer Experiance (CX) / User Experiance (UX)
 **Start where you are** 
-	- consider what is already being leveraged, and *avoid starting over*
-	- Measuring through direct observation
+	- Current state, Investigating what is already being leveraged, and *avoid starting over*
+	- Measuring through direct *observation*
 **Progress iteratively with feedback**
 	- Not everything happens at once
-	- Small iterations are easier to manage
+	- Small iterations are easier to manage, avoid ‘analysis paralysis’
 	- Leverage feedback loop and evalutation cycles
 **Collaborate and promote visibility**
 	- Engaged stackholders and avoid organizational silos
 	- Unexpected sources can lead to creative solutions
+	- critical analysis activites, understanding workflow.
 **Think and work holistically**  
 	- end-to-end service delivery 
 **Keep it simple and practical** 
@@ -79,6 +80,7 @@ Organization
 	- Business Analytics
 **Partners and suppliers**
 	- Organization replationship with other organizations
+	- Contractual obligations and business agreements
 **Value streams and processes**
 	- transforming inputs -> outputs
 	- Activity coordination	
@@ -103,11 +105,13 @@ Outcome as value created
 ![[Pasted image 20211109100459.png]]
 Plan
 Improve
-Engage 
+**Engage** Develop an understanding of stakeholder needs, through relationships
 Design & transition
-Obtain/build 
+**Obtain/build** *Current Status* improvement for all four dimensions 
 Deliver & support 
 # Best Practices
+*Practicies* are organizational resources designed for work performance and completing objectives
+
 a) Information security management (5.1.3)
 b) Relationship management (5.1.9)
 c) Supplier management (5.1.13)
@@ -136,13 +140,13 @@ d) Configuration item (5.2.11)
 e) Change (5.2.4)
 f) Incident (5.2.5)
 g) Problem (5.2.8)
-h) Known error (5.2.8)
+**Known error** is a problem that has been analyzed but has yet to be resolved.
 # Service Value Chain Practices
 Continual improvement (5.1.2,) including:
 - The continual improvement model (4.6, fig 4.3)
-b) Change control (5.2.4)
-c) Incident management (5.2.5)
-d) Problem management (5.2.8)
+**Change control** or *Change enablement* evaluates the risk assesment and process for scheduling IT changes including updates and migrations. 
+**Incident management** minimize the impact of incident occurance with prompt resolutions
+**Problem management** Reduce the occurance of incidents through casual analysis. Managing workarounds and known issues.
 e) Service request management (5.2.16)
-f) Service desk (5.2.14)
+**Service desk** captures demand for incident resolution and service requests
 g) Service level management (5.2.15)
