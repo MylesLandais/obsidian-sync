@@ -112,7 +112,8 @@ Improve
 
 a) Information security management (5.1.3)
 b) Relationship management (5.1.9)
-c) Supplier management (5.1.13)
+**Supplier management**
+ensure performance 
 d) Availability management (5.2.1)
 e) Capacity and performance management (5.2.3)
 **IT asset management**
@@ -120,7 +121,7 @@ e) Capacity and performance management (5.2.3)
 	
 g) Service continuity management (5.2.12)
 **Monitoring and event management** Report selected changes of state. Events defined by the state change for IT assets
-
+3
 i) Release management (5.2.9)
 j) Service configuration management (5.2.11)
 k) Deployment management (5.3.1)
