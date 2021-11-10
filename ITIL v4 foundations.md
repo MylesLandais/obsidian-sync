@@ -102,10 +102,11 @@ Outcome as value created
 ![[Pasted image 20211109100459.png]]
 **Plan** portfolio decisions, creating a shared vision that drives implementation directions for the organization. Information about the service offering performance and trends.
 Improve
-**Engage** Develop an understanding of stakeholder needs, through relationships
-Design & transition
+**Improve** activies for continual improvement and practices 
 **Obtain/build** *Current Status* improvement for all four dimensions 
-Deliver & support 
+**Design & transition**
+**Engage** Develop an understanding of stakeholder needs, through relationships
+**Deliver & support **
 # Best Practices
 *Practicies* are organizational resources designed for work performance and completing objectives
 
@@ -114,9 +115,12 @@ b) Relationship management (5.1.9)
 c) Supplier management (5.1.13)
 d) Availability management (5.2.1)
 e) Capacity and performance management (5.2.3)
-f) IT asset management (5.2.6)
+**IT asset management**
+	Inventory of objects belonging to IT with a lifecycle
+	
 g) Service continuity management (5.2.12)
-h) Monitoring and event management (5.2.7)
+**Monitoring and event management** Report selected changes of state. Events defined by the state change for IT assets
+
 i) Release management (5.2.9)
 j) Service configuration management (5.2.11)
 k) Deployment management (5.3.1)
@@ -146,7 +150,7 @@ c) Event (5.2.7)
 **Configuration item** any component of IT services that require management 
 e) Change (5.2.4)
 f) Incident (5.2.5)
-g) Problem (5.2.8)
+**Problem** a cause, potential cause, of one or more incidents
 **Known error** is a problem that has been analyzed but has yet to be resolved.
 # Service Value Chain Practices
 Continual improvement (5.1.2,) including:
