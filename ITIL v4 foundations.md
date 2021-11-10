@@ -4,7 +4,7 @@
 Utility
 Warranty
 **Customer** role defines the requirements for service outcomes.
-**User** -- uses service
+**User** uses service
 **Service Management** Organizational capability to *enable* value through services
 **Sponsor** role that authorizes the budget for service consumption
 
@@ -96,6 +96,7 @@ Outcome as value created
 
 # service value chain
 [Confused About the ITIL 4 Service Value Chain?](https://info.axiossystems.com/blog/itil-4-service-value-chain)
+*Value chain activites transform inputs into outputs*
 
 ## Value Chain Activities
 **ACROYM PIEDOD**
@@ -103,9 +104,9 @@ Outcome as value created
 **Plan** portfolio decisions, creating a shared vision that drives implementation directions for the organization. Information about the service offering performance and trends.
 Improve
 **Improve** activies for continual improvement and practices 
-**Obtain/build** *Current Status* improvement for all four dimensions 
+**Engage** Develop an understanding of stakeholder needs, through relationships. Processing feedback
 **Design & transition**
-**Engage** Develop an understanding of stakeholder needs, through relationships
+**Obtain/build** *Current Status* improvement for all four dimensions 
 **Deliver & support **
 # Best Practices
 *Practicies* are organizational resources designed for work performance and completing objectives
@@ -113,7 +114,7 @@ Improve
 a) Information security management (5.1.3)
 b) Relationship management (5.1.9)
 **Supplier management**
-ensure performance 
+ensure performance of suppliers
 d) Availability management (5.2.1)
 e) Capacity and performance management (5.2.3)
 **IT asset management**
@@ -124,7 +125,7 @@ g) Service continuity management (5.2.12)
 3
 i) Release management (5.2.9)
 j) Service configuration management (5.2.11)
-k) Deployment management (5.3.1)
+**Deployment management** Moving to live enviornments
 **Continual improvement**
 	analytical analysis with identification leading to factual desicion making driving improvements 
 	*Take Action* performing the work.
@@ -136,15 +137,20 @@ k) Deployment management (5.3.1)
 	*how do we keep the momentum going?*
 **Change control**
 *Changes* are for planned changes, Integration and Continual Development (CI/CD), and avoiding conflicts
-
+*Change Authority* should be assigned for each type of change and change model.
 *Normal Changes* require risk assesment, scheduling after approval by *change authority*
-n) Incident management (5.2.5)
-Problem management
+*Standard Changes* are well understood with documentation, low-risk, and have been pre-authorized. 
+**Incident management**
+may include scripts for collecting information, formal processed for logging incidents, and required knowledge to investigate issues.
+**Problem management**
+activities can be treated as improvement opportunities and result in change enablement
 *identifty*, *problem control*, *error control.*
 p) Service request management (5.2.16)
+	Quality of service handling requests for users, or user representative normal part of service delivery.
 	*Design and transition* standard changes to services initiated and fulfilled through service requests.
 	*Deliver and support*
 q) Service desk (5.2.14)
+	centralized service desk is where all employes work in a single location
 r) Service level management (5.2.15)
 	*customer engagement* asking customer how technology can help their work
 	*Improve* feedback from users as recommendations for improvements
