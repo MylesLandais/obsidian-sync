@@ -19,7 +19,6 @@ To achive **Value** the following need to be met. Together with utility and warr
 Organization  
 	
 **Output** deliverable tangible, or intangible  
-	
 **Utility**  defines the *functionality* offered by a product, *fit for purpose* that removes constraints from the consumer.
 **Warranty** assurance that a product or service *fit for use* will meet agreed requirements, Availability, capacity, security, continuity
 
@@ -42,7 +41,7 @@ Organization
 	- Measuring through direct *observation*
 **Progress iteratively with feedback**
 	- Not everything happens at once
-	- Small iterations are easier to manage, avoid ‘analysis paralysis’
+	- Small iterations are easier to manage, avoid analysis paralysis
 	- Leverage feedback loop and evalutation cycles
 **Collaborate and promote visibility**
 	- Engaged stackholders and avoid organizational silos
@@ -57,8 +56,6 @@ Organization
 	- clear vision and objectives, agree to context
 	- Cost reduction and reduced human errors
 	- technology to scale frequent and repetitive tasks
-	
-
 
 # Four Dimensions of Service Management
 [What are the Four Dimensions of ITIL 4?](https://info.axiossystems.com/blog/what-are-the-four-dimensions-of-itil-4)
@@ -124,7 +121,8 @@ i) Release management (5.2.9)
 j) Service configuration management (5.2.11)
 k) Deployment management (5.3.1)
 **Continual improvement**
-	analytical analysis leading to factual desicion making
+	analytical analysis with identification leading to factual desicion making driving improvements 
+	*How do we get there?* focused on outling action plan 
 	*What is the vision?* defines the improvement initiatives that align with org goals and objectives
 	*Where do we want to be?* Define in quantified metrics, Key Performance Indicators
 **Change control**
@@ -135,13 +133,17 @@ n) Incident management (5.2.5)
 Problem management
 *identifty*, *problem control*, *error control.*
 p) Service request management (5.2.16)
+	*Design and transition* standard changes to services initiated and fulfilled through service requests.
+	*Deliver and support*
 q) Service desk (5.2.14)
 r) Service level management (5.2.15)
+	*Improve* feedback from users as recommendations for improvements
+	
 ## Terminology
 Availability (5.2.1)
 b) IT asset (5.2.6)
 c) Event (5.2.7)
-d) Configuration item (5.2.11)
+**Configuration item** any component of IT services that require management 
 e) Change (5.2.4)
 f) Incident (5.2.5)
 g) Problem (5.2.8)
@@ -154,4 +156,4 @@ Continual improvement (5.1.2,) including:
 **Problem management** Reduce the occurance of incidents through casual analysis. Managing workarounds and known issues.
 e) Service request management (5.2.16)
 **Service desk** provides an entry point of contact for incident resolution and service requests
-g) Service level management (5.2.15)
+ **Service level management** targets for service performance, delivery of a service can be assesed, monitored, and managed.
