@@ -1,8 +1,8 @@
 # Key Concepts
-## Define
+## Definitions
 **Service** *enabling* value co-creation through customer outcomes. Without the customer having to manage specific costs and risks.
-Utility
-Warranty
+**Utility**  defines the *functionality* offered by a product, *fit for purpose* that removes constraints from the consumer.
+**Warranty** assurance that a product or service *fit for use* will meet agreed requirements, Availability, capacity, security, continuity
 **Customer** role defines the requirements for service outcomes.
 **User** uses service
 **Service Management** Organizational capability to *enable* value through services
@@ -19,16 +19,14 @@ To achive **Value** the following need to be met. Together with utility and warr
 Organization  
 	
 **Output** deliverable tangible, or intangible  
-**Utility**  defines the *functionality* offered by a product, *fit for purpose* that removes constraints from the consumer.
-**Warranty** assurance that a product or service *fit for use* will meet agreed requirements, Availability, capacity, security, continuity
 
 ## Service Relationships
 ![[Pasted image 20211109105204.png]]
 
 **Service offering** Goods, Access to resources, and/or Service actions desgined to address target consumers needs.
 **Service relationship management** combined or joined activites between providers and consumers for creating value.
-*Service provision* 
-*Service consumption* act of organizations consuming services
+**Service provision** activities that provide services, access to resources, and fullfillment of service actions 
+**Service consumption** act of organizations consuming services, Includes management of resources, may include recieving goods
 
 # ITIL guiding principles
 *recomendations for organizational service management*
@@ -103,55 +101,65 @@ Outcome as value created
 ![[Pasted image 20211109100459.png]]
 **Plan** portfolio decisions, creating a shared vision that drives implementation directions for the organization. Information about the service offering performance and trends.
 Improve
-**Improve** activies for continual improvement and practices 
+**Improve** activies for continual improvement and practices, anaylsis of data identifying 
 **Engage** Develop an understanding of stakeholder needs, through relationships. Processing feedback
-**Design & transition**
-**Obtain/build** *Current Status* improvement for all four dimensions 
+**Design & transition** Time to market, Meeting stakeholders expectations and constraints (costs)
+**Obtain/build** Components are available when they are needed and meet spec. *Current Status* improvement for all four dimensions 
 **Deliver & support **
 # Best Practices
 *Practicies* are organizational resources designed for work performance and completing objectives
 
-a) Information security management (5.1.3)
-b) Relationship management (5.1.9)
-**Supplier management**
-ensure performance of suppliers
-d) Availability management (5.2.1)
-e) Capacity and performance management (5.2.3)
-**IT asset management**
-	Inventory of objects belonging to IT with a lifecycle
+**Information security management** Ensures Confidentiality, Integrity, Availability
+
+**Relationship management** Establish and Nurturing relationships between customer and provider.
+
+**Supplier management** ensure performance of suppliers
+
+**Availability management** levels of availability meet expectations
+
+**Capacity and performance management** Cost-Effective performance for current and future demands.
+
+**IT asset management** Inventory of objects belonging to IT with a lifecycle, managing costs of assets
 	
-g) Service continuity management (5.2.12)
+**Service continuity management**
+
 **Monitoring and event management** Report selected changes of state. Events defined by the state change for IT assets
-3
+
 i) Release management (5.2.9)
 j) Service configuration management (5.2.11)
 **Deployment management** Moving to live enviornments
+
 **Continual improvement**
 	analytical analysis with identification leading to factual desicion making driving improvements 
-	*Take Action* performing the work.
-	*Where are we now* determind current state.
-	*How do we get there?* focused on outling action plan 
-	*What is the vision?* defines the improvement initiatives that align with org goals and objectives
-	*Where do we want to be?* Define in quantified metrics, Key Performance Indicators
-	*Did we get there?* Compare to baseline, determind if goals have been met
-	*how do we keep the momentum going?*
-**Change control**
-*Changes* are for planned changes, Integration and Continual Development (CI/CD), and avoiding conflicts
-*Change Authority* should be assigned for each type of change and change model.
-*Normal Changes* require risk assesment, scheduling after approval by *change authority*
-*Standard Changes* are well understood with documentation, low-risk, and have been pre-authorized. 
+-	*Take Action* performing the work.
+-	*Where are we now* determind current state.
+-	*How do we get there?* focused on outling action plan 
+-	*What is the vision?* defines the improvement initiatives that align with org goals and objectives
+-	*Where do we want to be?* Define in quantified metrics, Key Performance Indicators
+-	*Did we get there?* Compare to baseline, determind if goals have been met
+-	*how do we keep the momentum going?*
+
+**Change control => Change Enablement**
+*Changes* are for planned changes, Integration and Continual Development (CI/CD), and avoiding conflicts *Change Authority* should be assigned for each type of change and change model.
+- *Normal Changes* require risk assesment, scheduling after approval by *change authority*, not considered routine
+- *Standard Changes* are well understood with documentation, low-risk, and have been pre-authorized. 
+- *Emergency Changes* high impact/urgency, must be done as soon as possible.
+
 **Incident management**
 may include scripts for collecting information, formal processed for logging incidents, and required knowledge to investigate issues.
+
 **Problem management**
 activities can be treated as improvement opportunities and result in change enablement
 *identifty*, *problem control*, *error control.*
-p) Service request management (5.2.16)
+
+**Service request management** 
 	Quality of service handling requests for users, or user representative normal part of service delivery.
 	*Design and transition* standard changes to services initiated and fulfilled through service requests.
 	*Deliver and support*
-q) Service desk (5.2.14)
-	centralized service desk is where all employes work in a single location
-r) Service level management (5.2.15)
+
+**Service desk** centralized service desk is where all employes work in a single location
+
+r) **Service level management** (5.2.15)
 	*customer engagement* asking customer how technology can help their work
 	*Improve* feedback from users as recommendations for improvements
 	
@@ -169,7 +177,9 @@ Continual improvement (5.1.2,) including:
 - The continual improvement model (4.6, fig 4.3)
 **Change control** or *Change enablement* evaluates the risk assesment and process for scheduling IT changes including updates and migrations. 
 **Incident management** minimize the impact of incident occurance with prompt resolutions
-**Problem management** Reduce the occurance of incidents through casual analysis. Managing workarounds and known issues.
+**Problem management** Reduce the occurance of incidents through casual analysis. Managing workarounds and known issues. *workarounds* may reduce the impact of an incident/problem for which a full resolution is not available.
 e) Service request management (5.2.16)
 **Service desk** provides an entry point of contact, capturing incident resolution and service requests
+	*centralized* service desk requires supporting technologies and must have remote access tools.
+	
  **Service level management** targets for service performance, delivery of a service can be assesed, monitored, and managed.
