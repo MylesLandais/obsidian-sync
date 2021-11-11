@@ -52,7 +52,7 @@ Organization
 	- Minimum number of steps to acomplish an objective
 **Optimize and automate**
 	- clear vision and objectives, agree to context
-	- Cost reduction and reduced human errors
+	- Maxamize value, reduce costs, reduce human errors
 	- technology to scale frequent and repetitive tasks
 
 # Four Dimensions of Service Management
@@ -105,9 +105,9 @@ Improve
 **Engage** Develop an understanding of stakeholder needs, through relationships. Processing feedback
 **Design & transition** Time to market, Meeting stakeholders expectations and constraints (costs)
 **Obtain/build** Components are available when they are needed and meet spec. *Current Status* improvement for all four dimensions 
-**Deliver & support **
+**Deliver & support** ensures that users continue to be productive when they need assistance from the service provider
 # Best Practices
-*Practicies* are organizational resources designed for work performance and completing objectives
+*Practices* are organizational resources designed for work performance and completing objectives
 
 **Information security management** Ensures Confidentiality, Integrity, Availability
 
@@ -131,6 +131,10 @@ j) Service configuration management (5.2.11)
 
 **Continual improvement**
 	analytical analysis with identification leading to factual desicion making driving improvements 
+	
+**Continual Improvment Model** [](https://www.axelos.com/resource-hub/white-paper/itil4-continual-improvement-model-vuca-environment-white-paper)
+![Image of Figure 1.1 illustrates ITIL Continual Improvement Model](https://eu-images.contentstack.com/v3/assets/blt0bc74001569a8a62/blt9137b2555e594615/6087cedd441d9c0ccf651815/itil-4-continual-improvement-in-a-vuca-environment-figure-1-1-600x550_1.jpg)
+
 -	*Take Action* performing the work.
 -	*Where are we now* determind current state.
 -	*How do we get there?* focused on outling action plan 
