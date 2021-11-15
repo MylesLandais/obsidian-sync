@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ITIL v4 foundations.md",
+            "file": "2022 reading list.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ITIL v4 foundations.md",
+            "file": "2022 reading list.md",
             "mode": "preview"
           }
         },
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "itil",
+                "query": "2022 read",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395,
-    "collapsed": true
+    "width": 395
   },
   "right": {
     "id": "abfaa17789b05827",
@@ -83,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITIL v4 foundations.md",
+                "file": "2022 reading list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +102,9 @@
   },
   "active": "f33066a3c2180c4f",
   "lastOpenFiles": [
+    "2022 reading list.md",
     "ITIL v4 foundations.md",
     "2021-11-09.md",
-    "2022 reading list.md",
     "AWS Redshift.md",
     "AWS Open Search.md",
     "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
