@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022 reading list.md",
+            "file": "Library/Wishlist.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022 reading list.md",
+                "file": "Library/Wishlist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,11 +86,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,15 +100,15 @@
   },
   "active": "a0959e24934d9fdb",
   "lastOpenFiles": [
+    "Library/Wishlist.md",
+    "Library/Reading Lists.md",
+    "Daily Notes/2021-08-03-daily-notes.md",
     "2022 reading list.md",
     "Money and Banking - What Everyone Should Know.md",
     "Simple note-taking setup.md",
     "Templates/template-demo.md",
     "Untitled 3.md",
     "Ansible.md",
-    "Application Security.md",
-    "ITIL v4 foundations.md",
-    "2021-11-09.md",
-    "AWS Redshift.md"
+    "Application Security.md"
   ]
 }
