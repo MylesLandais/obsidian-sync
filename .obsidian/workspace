@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f33066a3c2180c4f",
+        "id": "a0959e24934d9fdb",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -12,20 +12,7 @@
             "file": "2022 reading list.md",
             "mode": "source"
           }
-        },
-        "group": "1631739b07ec3014"
-      },
-      {
-        "id": "7ab0a5b6655ffda8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022 reading list.md",
-            "mode": "preview"
-          }
-        },
-        "group": "1631739b07ec3014"
+        }
       }
     ],
     "direction": "vertical"
@@ -52,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2022 read",
+                "query": "reading ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,6 +79,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "a9b8cb7104efd658",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
@@ -100,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f33066a3c2180c4f",
+  "active": "a0959e24934d9fdb",
   "lastOpenFiles": [
     "2022 reading list.md",
+    "Simple note-taking setup.md",
+    "Templates/template-demo.md",
+    "Untitled 3.md",
+    "Ansible.md",
+    "Application Security.md",
     "ITIL v4 foundations.md",
     "2021-11-09.md",
     "AWS Redshift.md",
-    "AWS Open Search.md",
-    "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
-    "AWS Neptune.md",
-    "AWS Glue.md",
-    "DynamoDB.md",
-    "CCSP Resources.md"
+    "AWS Open Search.md"
   ]
 }
