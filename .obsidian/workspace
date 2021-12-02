@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled 4.md",
+            "file": "What is an IDOR vulnerability?.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 4.md",
+                "file": "What is an IDOR vulnerability?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
   },
   "active": "a0959e24934d9fdb",
   "lastOpenFiles": [
-    "Untitled 4.md",
+    "What is an IDOR vulnerability?.md",
     "powershell -- connecting to a sql database.md",
     "Installing powershell on linux.md",
     "Lab - Sql Management Studio.md",
