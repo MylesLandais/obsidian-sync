@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022 reading list.md",
+            "file": "Todo list.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2022 readi",
+                "query": "todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022 reading list.md",
+                "file": "Todo list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +100,15 @@
   },
   "active": "a0959e24934d9fdb",
   "lastOpenFiles": [
+    "Todo list.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
+    "ITIL Blog.md",
     "2022 reading list.md",
     "Places where I can practice AD?.md",
     "What is an IDOR vulnerability?.md",
     "powershell -- connecting to a sql database.md",
     "Installing powershell on linux.md",
-    "Lab - Sql Management Studio.md",
-    "Library/Wishlist.md",
-    "Library/Reading Lists.md",
-    "Daily Notes/2021-08-03-daily-notes.md",
-    "Money and Banking - What Everyone Should Know.md"
+    "Lab - Sql Management Studio.md"
   ]
 }

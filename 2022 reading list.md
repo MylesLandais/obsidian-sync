@@ -1,5 +1,7 @@
+Understanding ECMA script
+Security Engineering
+Designing Data-Intensive Applications
 
-bitcoin
 anna karenina
 Illiad
 Oddesy
@@ -19,16 +21,23 @@ three body problem
 Millionaire Fastlane
 bitcoin standard
 Fiat standard
-
+mastering bitcoin
+mastering etherium
 art of programming
 leatures on the philosophy of mathematics
-irobot
+i, robot - Issac Asimov
 Introduction to Modern Cryptography
 The Origin of Wealth
 The Creature from Jekyll Island
 art of war
 maps of meaning
 antichrist
-
 rust book
 nim book
+Option Volatility and Pricing: Advanced Trading Strategies and Techniques, 2nd Edition 
+Japanese Candlestick Charting Techniques
+Technical Analysis of the Financial Markets
+Mental Game of Trading
+Principles
+DeFi and the Future of Finance - Campbell R. Harvey
+Out of the Ether: The Amazing Story of Ethereum -  Matthew Leising (Author)
