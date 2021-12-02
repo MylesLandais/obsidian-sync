@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Library/Wishlist.md",
+            "file": "Untitled 4.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reading ",
+                "query": "powershell ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Library/Wishlist.md",
+                "file": "Untitled 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "a0959e24934d9fdb",
   "lastOpenFiles": [
+    "Untitled 4.md",
+    "powershell -- connecting to a sql database.md",
+    "Installing powershell on linux.md",
+    "Lab - Sql Management Studio.md",
     "Library/Wishlist.md",
     "Library/Reading Lists.md",
     "Daily Notes/2021-08-03-daily-notes.md",
     "2022 reading list.md",
     "Money and Banking - What Everyone Should Know.md",
-    "Simple note-taking setup.md",
-    "Templates/template-demo.md",
-    "Untitled 3.md",
-    "Ansible.md",
-    "Application Security.md"
+    "Simple note-taking setup.md"
   ]
 }

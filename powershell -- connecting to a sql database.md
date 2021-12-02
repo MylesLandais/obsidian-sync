@@ -1,0 +1,2 @@
+
+`install-module -Name SqlServer`
