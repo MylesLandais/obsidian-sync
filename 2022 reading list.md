@@ -18,6 +18,8 @@ three body problem
 1Q84
 Millionaire Fastlane
 bitcoin standard
+Fiat standard
+
 art of programming
 leatures on the philosophy of mathematics
 irobot
@@ -25,3 +27,8 @@ Introduction to Modern Cryptography
 The Origin of Wealth
 The Creature from Jekyll Island
 art of war
+maps of meaning
+antichrist
+
+rust book
+nim book
