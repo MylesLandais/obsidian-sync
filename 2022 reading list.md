@@ -42,3 +42,4 @@ Mental Game of Trading
 Principles
 DeFi and the Future of Finance - Campbell R. Harvey
 Out of the Ether: The Amazing Story of Ethereum -  Matthew Leising (Author)
+Windows Internals
