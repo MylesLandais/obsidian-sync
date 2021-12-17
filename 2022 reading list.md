@@ -44,4 +44,4 @@ DeFi and the Future of Finance - Campbell R. Harvey
 Out of the Ether: The Amazing Story of Ethereum -  Matthew Leising (Author)
 Windows Internals
 Bug Bounty Bootcamp
-Game Hacking - Developing Autonomous Bots for Online Games
+Game Hacking Developing Autonomous Bots for Online Games
