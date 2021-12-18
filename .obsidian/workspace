@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Proxmox.md",
+            "file": "Ovirt.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proxmox",
+                "query": "remnux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proxmox.md",
+                "file": "Ovirt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +100,15 @@
   },
   "active": "a0959e24934d9fdb",
   "lastOpenFiles": [
+    "Ovirt.md",
+    "Remnux.md",
+    "Daily Notes/2021-08-07.md",
     "Proxmox.md",
     "Untitled 6.md",
     "Toolkit.md",
     "Windows 10.md",
     "TCM - Malware Analysis.md",
     "2022 reading list.md",
-    "Polkit requried to run.md",
-    "Todo list.md",
-    "Untitled 5.md",
-    "Untitled 4.md"
+    "Polkit requried to run.md"
   ]
 }
