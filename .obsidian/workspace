@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A Drop of Jupyter A Modular Approach to Penetration Testing.md",
+            "file": "SOC Automation with PowerShell Interactive Notebooks.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "remnux",
+                "query": " Malware Analysis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Drop of Jupyter A Modular Approach to Penetration Testing.md",
+                "file": "SOC Automation with PowerShell Interactive Notebooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "d3217bde1e050f07",
   "lastOpenFiles": [
-    "A Drop of Jupyter A Modular Approach to Penetration Testing.md",
+    "SOC Automation with PowerShell Interactive Notebooks.md",
+    "TCM-sec Practical Malware Analysis & Triage.md",
+    "TODO - Importing OVA's with Proxmox.md",
     "@RyanElkins.md",
-    "Remnux.md",
-    "Powershell Snippet - Display services that are currently active.md",
+    "How to Lecture Notes.md",
+    "A Walkthrough Of My Obsidian Setup.md",
     "Net Interactive Jupyter Notebooks.md",
-    ".net interactive.md",
-    "Templates/template-demo.md",
-    "Ovirt.md",
-    ".NET Interactive.md",
-    "Daily Notes/2021-08-07.md"
+    "Miniflux.md",
+    "Daily Notes/2021-08-24.md",
+    "Bookmarked - RSS FEEDS -- OPML.md"
   ]
 }

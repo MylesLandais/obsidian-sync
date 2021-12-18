@@ -2,7 +2,8 @@
 Status: #bookmarks
 Tags: #Jupyter,
 Content-Type: ##Video
-Source: 
+Source: https://www.youtube.com/watch?v=LTNKMA65BtI
+Authors: @obheda12
 
 # A Drop of Jupyter A Modular Approach to Penetration Testing
 B-Sides DFW

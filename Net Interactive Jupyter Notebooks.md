@@ -33,6 +33,9 @@ A similar alternative it nteract.io but i prefer vscode or the web ui.
 ext install ms-dotnettools.dotnet-interactive-vscode
 ```
 
+### Ideas
+Contained in Docker -- https://github.com/secana/dotnet-interactive-docker
+
 ---
 # Refrences
 [NET Interactive is here](https://devblogs.microsoft.com/dotnet/net-interactive-is-here-net-notebooks-preview-2/)
