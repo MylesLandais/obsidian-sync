@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System Design Interview.md",
+            "file": "Certifications.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "system design interview",
+                "query": "cert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,11 +48,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 395
+    "width": 395,
+    "collapsed": true
   },
   "right": {
     "id": "abfaa17789b05827",
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design Interview.md",
+                "file": "Certifications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
   },
   "active": "80eafeea963d4104",
   "lastOpenFiles": [
+    "Certifications.md",
     "System Design Interview.md",
     "Templates/template-demo.md",
     "2021-10-12.md",
@@ -108,7 +111,6 @@
     "Storage Gateway.md",
     "Unbound Concurrency in Go.md",
     "SOC Automation with PowerShell Interactive Notebooks.md",
-    "TCM-sec Practical Malware Analysis & Triage.md",
-    "TODO - Importing OVA's with Proxmox.md"
+    "TCM-sec Practical Malware Analysis & Triage.md"
   ]
 }
