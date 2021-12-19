@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SOC Automation with PowerShell Interactive Notebooks.md",
+            "file": "2022 reading list.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " Malware Analysis",
+                "query": "2022 re",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOC Automation with PowerShell Interactive Notebooks.md",
+                "file": "2022 reading list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +101,8 @@
   },
   "active": "d3217bde1e050f07",
   "lastOpenFiles": [
+    "2022 reading list.md",
+    "Unbound Concurrency in Go.md",
     "SOC Automation with PowerShell Interactive Notebooks.md",
     "TCM-sec Practical Malware Analysis & Triage.md",
     "TODO - Importing OVA's with Proxmox.md",
@@ -107,8 +110,6 @@
     "How to Lecture Notes.md",
     "A Walkthrough Of My Obsidian Setup.md",
     "Net Interactive Jupyter Notebooks.md",
-    "Miniflux.md",
-    "Daily Notes/2021-08-24.md",
-    "Bookmarked - RSS FEEDS -- OPML.md"
+    "Miniflux.md"
   ]
 }
