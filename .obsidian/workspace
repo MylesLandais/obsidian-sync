@@ -7,8 +7,11 @@
         "id": "80eafeea963d4104",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2022 reading list.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2022 re",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,11 +48,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 395
+    "width": 395,
+    "collapsed": true
   },
   "right": {
     "id": "abfaa17789b05827",
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022 reading list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,9 +102,9 @@
   },
   "active": "80eafeea963d4104",
   "lastOpenFiles": [
+    "2022 reading list.md",
     "Untitled 8.md",
     "Storage Gateway.md",
-    "2022 reading list.md",
     "Unbound Concurrency in Go.md",
     "SOC Automation with PowerShell Interactive Notebooks.md",
     "TCM-sec Practical Malware Analysis & Triage.md",
