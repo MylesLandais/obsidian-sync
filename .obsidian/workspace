@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022 reading list.md",
+            "file": "System Design Interview.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "system design interview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 395,
-    "collapsed": true
+    "width": 395
   },
   "right": {
     "id": "abfaa17789b05827",
@@ -70,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022 reading list.md",
+                "file": "System Design Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +100,15 @@
   },
   "active": "80eafeea963d4104",
   "lastOpenFiles": [
+    "System Design Interview.md",
+    "Templates/template-demo.md",
+    "2021-10-12.md",
     "2022 reading list.md",
     "Untitled 8.md",
     "Storage Gateway.md",
     "Unbound Concurrency in Go.md",
     "SOC Automation with PowerShell Interactive Notebooks.md",
     "TCM-sec Practical Malware Analysis & Triage.md",
-    "TODO - Importing OVA's with Proxmox.md",
-    "@RyanElkins.md",
-    "How to Lecture Notes.md",
-    "A Walkthrough Of My Obsidian Setup.md"
+    "TODO - Importing OVA's with Proxmox.md"
   ]
 }

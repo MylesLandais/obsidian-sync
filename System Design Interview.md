@@ -1,3 +1,8 @@
+Status: #reading
+Tags: #systems 
+Content-Type: Text/Book
+Source: https://ipfs.io/ipfs/bafykbzacecpbuvilbmokyl2ajs2hbve3qaut4h3vtir6htydecy2h5jaqmy7i?filename=Alex%20Yu%20-%20System%20Design%20Interview_%20An%20Insider%E2%80%99s%20Guide-Independently%20published%20%282020%29.pdf
+
 # SCALE FROM ZERO TO MILLIONS OF USERS
 **Single Server Setup** A starting point where everything is running on one server, Web app, database, cache.
 
@@ -117,6 +122,7 @@ Sharding can split the data set across a number of data servers. This introduces
 
 *Celebrity Problem* Some records require more reads and have unique scaling issues.
 
+---
 Annotated Refrences
 [1](https://blog.teamtreehouse.com/should-you-go-beyond-relational-databases) [[beyond relational databases]]
 

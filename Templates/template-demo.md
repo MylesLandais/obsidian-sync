@@ -1,8 +1,8 @@
 {{date:YYYYMMDD}}{{time:HHmm}}
 Status: #bookmarks
 Tags:
-Content-Type:
-Source: 
+Content-Type: Text/Book
+Source:  
 
 # {{title}}
 
