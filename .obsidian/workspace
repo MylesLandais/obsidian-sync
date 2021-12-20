@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Security Plus.md",
+            "file": "Deep Work.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "security+",
+                "query": "2022",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security Plus.md",
+                "file": "Deep Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "80eafeea963d4104",
   "lastOpenFiles": [
+    "Deep Work.md",
+    "2022 reading list.md",
     "Security Plus.md",
     "Certifications.md",
     "System Design Interview.md",
     "Templates/template-demo.md",
     "2021-10-12.md",
-    "2022 reading list.md",
     "Untitled 8.md",
     "Storage Gateway.md",
-    "Unbound Concurrency in Go.md",
-    "SOC Automation with PowerShell Interactive Notebooks.md"
+    "Unbound Concurrency in Go.md"
   ]
 }
