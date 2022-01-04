@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Deep Work.md",
+            "file": "Hugo.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Work.md",
+                "file": "Hugo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +100,7 @@
   },
   "active": "80eafeea963d4104",
   "lastOpenFiles": [
+    "Hugo.md",
     "Deep Work.md",
     "2022 reading list.md",
     "Security Plus.md",
@@ -109,7 +109,6 @@
     "Templates/template-demo.md",
     "2021-10-12.md",
     "Untitled 8.md",
-    "Storage Gateway.md",
-    "Unbound Concurrency in Go.md"
+    "Storage Gateway.md"
   ]
 }
