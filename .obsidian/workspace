@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Legion Pulse Tropical Punch.md",
+            "file": "My Obisidian Organization.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2022",
+                "query": "organization",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Legion Pulse Tropical Punch.md",
+                "file": "My Obisidian Organization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "80eafeea963d4104",
   "lastOpenFiles": [
+    "My Obisidian Organization.md",
+    "Hugo.md",
+    "installing hugo on arch linux.md",
+    "!installing hugo on arch linux.md",
     "Templates/Legion Pulse Tropical Punch.md",
     "Untitled 9.md",
-    "Hugo.md",
     "Deep Work.md",
     "2022 reading list.md",
     "Security Plus.md",
-    "Certifications.md",
-    "System Design Interview.md",
-    "2021-10-12.md",
-    "Untitled 8.md"
+    "Certifications.md"
   ]
 }

@@ -6,5 +6,8 @@ Source:
 
 # Hugo
 
+## Setup
+![[installing hugo on arch linux]]
+
 ---
 # Refrences
