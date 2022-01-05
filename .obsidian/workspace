@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hugo.md",
+            "file": "Templates/Legion Pulse Tropical Punch.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hugo.md",
+                "file": "Templates/Legion Pulse Tropical Punch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "80eafeea963d4104",
   "lastOpenFiles": [
+    "Templates/Legion Pulse Tropical Punch.md",
+    "Untitled 9.md",
     "Hugo.md",
     "Deep Work.md",
     "2022 reading list.md",
     "Security Plus.md",
     "Certifications.md",
     "System Design Interview.md",
-    "Templates/template-demo.md",
     "2021-10-12.md",
-    "Untitled 8.md",
-    "Storage Gateway.md"
+    "Untitled 8.md"
   ]
 }
