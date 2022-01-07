@@ -667,3 +667,7 @@ Log Agent for EC2
 	Can be deployed to on-prem systems
 	new version is the Unfied agent doing logs and metrics
 CloudWatch alarms can be tested with `set-alarm-state`
+EC2 Instance recovery 
+[[AWS Event Bridge]]
+Event Bridge extends CloudWatch Events that allows third-party vendor integrations.
+[[CloudTrail]]

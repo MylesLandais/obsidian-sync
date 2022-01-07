@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+            "file": "CloudTrail.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+                "file": "CloudTrail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "80eafeea963d4104",
   "lastOpenFiles": [
+    "CloudTrail.md",
     "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+    "AWS Event Bridge.md",
     "AWS CloudWatch Dashboards.md",
     "AWS Cloudwatch Metrics.md",
     "AWS Glue.md",
     "AWS Neptune.md",
     "AWS/Aurora.md",
     "OLTP Online Transaction Processing.md",
-    "AWS Open Search.md",
-    "Ancient Greek literature.md",
-    "Inspectional Reading - How To Read For Understanding.md"
+    "AWS Open Search.md"
   ]
 }
