@@ -18,7 +18,7 @@ The Myth of Sisyphus
 how to take smart notes
 snow crash
 three body problem
-1Q84
+1Q84 murakami
 Millionaire Fastlane
 bitcoin standard
 Fiat standard
@@ -51,3 +51,5 @@ Elements of Computing Systems
 Be Here Now
 [[Deep Work]]
 The Metamorphosis - kafka
+The Sailor Who Fell from Grace with the Sea - yukio mishima (pewdiepie reading books 2018)
+brave new world

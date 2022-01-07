@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022 reading list.md",
+            "file": "Ancient Greek literature.md",
             "mode": "source"
           }
         }
@@ -48,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 395,
-    "collapsed": true
+    "width": 395
   },
   "right": {
     "id": "abfaa17789b05827",
@@ -70,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022 reading list.md",
+                "file": "Ancient Greek literature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +100,8 @@
   },
   "active": "80eafeea963d4104",
   "lastOpenFiles": [
+    "Ancient Greek literature.md",
+    "Inspectional Reading - How To Read For Understanding.md",
     "2022 reading list.md",
     "Toolkit.md",
     "My Obisidian Organization.md",
@@ -109,8 +109,6 @@
     "installing hugo on arch linux.md",
     "!installing hugo on arch linux.md",
     "Templates/Legion Pulse Tropical Punch.md",
-    "Untitled 9.md",
-    "Deep Work.md",
-    "Security Plus.md"
+    "Untitled 9.md"
   ]
 }
