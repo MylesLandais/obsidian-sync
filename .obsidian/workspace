@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ancient Greek literature.md",
+            "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2022 read",
+                "query": "athena",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,11 +48,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 395
+    "width": 395,
+    "collapsed": true
   },
   "right": {
     "id": "abfaa17789b05827",
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ancient Greek literature.md",
+                "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,8 +92,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,15 +101,15 @@
   },
   "active": "80eafeea963d4104",
   "lastOpenFiles": [
+    "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+    "AWS CloudWatch Dashboards.md",
+    "AWS Cloudwatch Metrics.md",
+    "AWS Glue.md",
+    "AWS Neptune.md",
+    "AWS/Aurora.md",
+    "OLTP Online Transaction Processing.md",
+    "AWS Open Search.md",
     "Ancient Greek literature.md",
-    "Inspectional Reading - How To Read For Understanding.md",
-    "2022 reading list.md",
-    "Toolkit.md",
-    "My Obisidian Organization.md",
-    "Hugo.md",
-    "installing hugo on arch linux.md",
-    "!installing hugo on arch linux.md",
-    "Templates/Legion Pulse Tropical Punch.md",
-    "Untitled 9.md"
+    "Inspectional Reading - How To Read For Understanding.md"
   ]
 }

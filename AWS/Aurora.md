@@ -1,5 +1,7 @@
 Proprietary Amazon database compatible with MySql + Postgres modes (chosen when deployed)
 
+Both Auruora and Amazon RDS fit [[Online Transaction Processing (OLTP)]] applications
+
 *Amazon Aurora connection management*; Aurora uses *Endpoints* as a handler abstraction for connections for routing and load balancing connections. For example - a primary instance can handle all the data manipulation.
 
 Endpoint Types

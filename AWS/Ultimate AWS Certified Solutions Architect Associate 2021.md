@@ -650,3 +650,20 @@ Cognito can use api gateway and laLiBRiCiDEmda functions to create signed urls f
 [[AWS Glue]]
 [[AWS Neptune]]
 [[AWS Open Search]]
+---
+## Monitoring
+[[AWS Cloudwatch Metrics]]
+[[AWS CloudWatch Dashboards]]
+
+CloudWatch Logs
+- Filter expressions such as "ERROR" to trigger Alarms or add queries to dashboard
+- CloudWatch logs can be exported to S3 buckets, takes time to batch brocess
+- Cloudwatch logs can use subscription filters for real-time analysis
+- Log Insights provide a Query language to analyize data
+
+Log Agent for EC2
+	By default no logs from EC2 will be logged with cloud watch
+	Requires an IAM role
+	Can be deployed to on-prem systems
+	new version is the Unfied agent doing logs and metrics
+CloudWatch alarms can be tested with `set-alarm-state`
