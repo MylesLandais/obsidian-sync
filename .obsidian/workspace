@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Toolkit.md",
+            "file": "2022 reading list.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tools",
+                "query": "2022 read",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395
+    "width": 395,
+    "collapsed": true
   },
   "right": {
     "id": "abfaa17789b05827",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Toolkit.md",
+                "file": "2022 reading list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
   },
   "active": "80eafeea963d4104",
   "lastOpenFiles": [
+    "2022 reading list.md",
     "Toolkit.md",
     "My Obisidian Organization.md",
     "Hugo.md",
@@ -109,7 +111,6 @@
     "Templates/Legion Pulse Tropical Punch.md",
     "Untitled 9.md",
     "Deep Work.md",
-    "2022 reading list.md",
     "Security Plus.md"
   ]
 }
