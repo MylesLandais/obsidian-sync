@@ -122,7 +122,17 @@ Sharding can split the data set across a number of data servers. This introduces
 
 *Celebrity Problem* Some records require more reads and have unique scaling issues.
 
+## Search auto complete engine
+design top 'k' pattern
+[[Trie - Design Pattern]]
+
+Update Trie based on data collection to aggragate new results, this could be done nightly.
+Perssistant Trie storage can be either document storage (mongodb) or a Key-Value database.
+
+
 ---
-Annotated Refrences
+Annotated Refrences (from book)
 [1](https://blog.teamtreehouse.com/should-you-go-beyond-relational-databases) [[beyond relational databases]]
 
+---
+https://jojozhuang.github.io/tutorial/creating-data-structure-diagrams-with-mermaid/

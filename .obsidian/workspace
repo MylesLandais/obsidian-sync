@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CloudTrail.md",
+            "file": "System Design Interview.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "athena",
+                "query": "system design interv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395,
-    "collapsed": true
+    "width": 395
   },
   "right": {
     "id": "abfaa17789b05827",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CloudTrail.md",
+                "file": "System Design Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +100,8 @@
   },
   "active": "80eafeea963d4104",
   "lastOpenFiles": [
+    "System Design Interview.md",
+    "Trie - Design Pattern.md",
     "CloudTrail.md",
     "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
     "AWS Event Bridge.md",
@@ -108,8 +109,6 @@
     "AWS Cloudwatch Metrics.md",
     "AWS Glue.md",
     "AWS Neptune.md",
-    "AWS/Aurora.md",
-    "OLTP Online Transaction Processing.md",
-    "AWS Open Search.md"
+    "AWS/Aurora.md"
   ]
 }
