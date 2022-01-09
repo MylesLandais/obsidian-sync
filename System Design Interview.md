@@ -129,6 +129,14 @@ design top 'k' pattern
 Update Trie based on data collection to aggragate new results, this could be done nightly.
 Perssistant Trie storage can be either document storage (mongodb) or a Key-Value database.
 
+## Design Youtube
+Directed Acyclic graph
+
+Resource management and Task Queue
+
+Pre-signed upload urls or Shared Access Signature (azure)
+
+## Design Google Drive
 
 ---
 Annotated Refrences (from book)
