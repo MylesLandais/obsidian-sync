@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System Design Interview.md",
+            "file": "Principles of compiler design.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design Interview.md",
+                "file": "Principles of compiler design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +99,7 @@
   },
   "active": "80eafeea963d4104",
   "lastOpenFiles": [
+    "Principles of compiler design.md",
     "System Design Interview.md",
     "Trie - Design Pattern.md",
     "CloudTrail.md",
@@ -108,7 +108,6 @@
     "AWS CloudWatch Dashboards.md",
     "AWS Cloudwatch Metrics.md",
     "AWS Glue.md",
-    "AWS Neptune.md",
-    "AWS/Aurora.md"
+    "AWS Neptune.md"
   ]
 }
