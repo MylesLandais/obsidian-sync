@@ -12,7 +12,20 @@
             "file": "Principles of compiler design.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "170531bdb433e656"
+      },
+      {
+        "id": "3072f4769592c585",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Principles of compiler design.md",
+            "mode": "preview"
+          }
+        },
+        "group": "170531bdb433e656"
       }
     ],
     "direction": "vertical"
@@ -39,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "system design interv",
+                "query": "knuth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,14 +113,14 @@
   "active": "80eafeea963d4104",
   "lastOpenFiles": [
     "Principles of compiler design.md",
+    "@Knuth.md",
+    "@ullman.md",
     "System Design Interview.md",
     "Trie - Design Pattern.md",
     "CloudTrail.md",
     "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
     "AWS Event Bridge.md",
     "AWS CloudWatch Dashboards.md",
-    "AWS Cloudwatch Metrics.md",
-    "AWS Glue.md",
-    "AWS Neptune.md"
+    "AWS Cloudwatch Metrics.md"
   ]
 }

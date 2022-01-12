@@ -1,10 +1,9 @@
 
-Alfred V. Aho
-Jeffery Ullman
+# Principles of Compiler Design
+Authors: [[@ullman]] [[@aho]]
+Publisher:  [[Addison-Wesley Publishing Co.]]
 
-Addison-Wesley Publishing Co.
-
-Table of Contents
+## Table of Contents
 ---
 - Basic Structure of a Compiler
 - Concepts and Terminology
@@ -15,14 +14,14 @@ Table of Contents
 	- Operator Prescedence
 	- Recursive Descent
 	- LR Parsing
-Code Generation
-Arrays and Structs
-Symbol Tables
-Run Time
-Error Recovery
-Code Optimization
+- Code Generation
+- Arrays and Structs
+- Symbol Tables
+- Run Time
+- Error Recovery
+- Code Optimization
 
-Introduction
+## Introduction
 ---
 _About the authors_
 
@@ -72,3 +71,16 @@ interface between source code and the compiler
 Creating a sequence of tokens that represent identifiers, keywords, constants, operators, and syntactical elements such as punctation, braces, semicolons.
 
 ### Syntax Analysis
+```mermaid
+graph TB
+    A((expression))-->B((expression))
+    A-->C((*))
+    A-->D((Expression))
+    B-->E((A))
+    B-->F((/))
+    B-->G((B))
+    D-->I((c))
+```
+_Figure 1.4 Example of a parser tree. Evaluating for a/b*c_
+
+_figure 1.5_ Evaluating if/else statements
