@@ -671,3 +671,6 @@ EC2 Instance recovery
 [[AWS Event Bridge]]
 Event Bridge extends CloudWatch Events that allows third-party vendor integrations.
 [[CloudTrail]]
+	record api calls
+	
+AWS Config - Assert configuration settings across organization. Can also be used to audit policy

@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Principles of compiler design.md",
+            "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
             "mode": "source"
           }
-        },
-        "group": "170531bdb433e656"
-      },
-      {
-        "id": "3072f4769592c585",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Principles of compiler design.md",
-            "mode": "preview"
-          }
-        },
-        "group": "170531bdb433e656"
+        }
       }
     ],
     "direction": "vertical"
@@ -52,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "knuth",
+                "query": "aws",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,11 +48,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 395
+    "width": 395,
+    "collapsed": true
   },
   "right": {
     "id": "abfaa17789b05827",
@@ -81,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Principles of compiler design.md",
+                "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,13 +101,13 @@
   },
   "active": "80eafeea963d4104",
   "lastOpenFiles": [
+    "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
     "Principles of compiler design.md",
     "@Knuth.md",
     "@ullman.md",
     "System Design Interview.md",
     "Trie - Design Pattern.md",
     "CloudTrail.md",
-    "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
     "AWS Event Bridge.md",
     "AWS CloudWatch Dashboards.md",
     "AWS Cloudwatch Metrics.md"
