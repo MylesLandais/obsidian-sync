@@ -102,14 +102,14 @@
   "active": "80eafeea963d4104",
   "lastOpenFiles": [
     "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+    "CloudTrail.md",
+    "AWS Cloudwatch Metrics.md",
     "Principles of compiler design.md",
     "@Knuth.md",
     "@ullman.md",
     "System Design Interview.md",
     "Trie - Design Pattern.md",
-    "CloudTrail.md",
     "AWS Event Bridge.md",
-    "AWS CloudWatch Dashboards.md",
-    "AWS Cloudwatch Metrics.md"
+    "AWS CloudWatch Dashboards.md"
   ]
 }

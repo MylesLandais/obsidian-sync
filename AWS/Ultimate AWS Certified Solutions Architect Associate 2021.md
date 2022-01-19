@@ -674,3 +674,19 @@ Event Bridge extends CloudWatch Events that allows third-party vendor integratio
 	record api calls
 	
 AWS Config - Assert configuration settings across organization. Can also be used to audit policy
+	example checking for open ports
+
+## Identity Access Management (Advanced)
+---
+
+Security Token Service - Allows limited temporary access to AWS Resources
+AssumeRole - one hour access
+AssumeRoleWithSaml
+AssumeRoleWithWebIdentity - Not recommended
+GetSessionToken
+
+**Identity Federation in AWS**
+allow users outside of AWS assume access roles, trust user accounts from another service such as Microsoft AD
+SAML 2.0 Federation - to integrate ADFS with AWS
+Web Identity Federation - Not recommended, use AWS Cognito
+[[AWS Cognito]] - Avoid creating AWS User accounts for each application customer/user
