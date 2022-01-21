@@ -690,3 +690,23 @@ allow users outside of AWS assume access roles, trust user accounts from another
 SAML 2.0 Federation - to integrate ADFS with AWS
 Web Identity Federation - Not recommended, use AWS Cognito
 [[AWS Cognito]] - Avoid creating AWS User accounts for each application customer/user
+
+[[Microsoft Active Directory]]
+Centralized management for User Accounts, Computers, Printers, File Shares, and Security Groups
+
+Objects are organized in trees
+A group of trees is a forest
+
+Machines on the network can lookup and authenticate users against a domain controller.
+[[AWS Managed Microsoft AD]]
+	Create your own AD in AWS
+AD Connector
+	Proxy to re-direct to on-premise AD
+Simple AD
+	Compatible service for AD
+	
+Organizational Units - Examples
+	Business Units (Finance/HR/IT)
+	Env Lifecycle (prod/testing/dev)
+	s
+	
