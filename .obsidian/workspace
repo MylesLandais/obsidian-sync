@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+            "file": "Install Nim.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aws",
+                "query": "nim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 395,
-    "collapsed": true
+    "width": 395
   },
   "right": {
     "id": "abfaa17789b05827",
@@ -70,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+                "file": "Install Nim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +99,7 @@
   },
   "active": "80eafeea963d4104",
   "lastOpenFiles": [
+    "Install Nim.md",
     "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
     "CloudTrail.md",
     "AWS Cloudwatch Metrics.md",
@@ -109,7 +108,6 @@
     "@ullman.md",
     "System Design Interview.md",
     "Trie - Design Pattern.md",
-    "AWS Event Bridge.md",
-    "AWS CloudWatch Dashboards.md"
+    "AWS Event Bridge.md"
   ]
 }
