@@ -708,5 +708,6 @@ Simple AD
 Organizational Units - Examples
 	Business Units (Finance/HR/IT)
 	Env Lifecycle (prod/testing/dev)
-	s
+	OU's can be nested
 	
+Resource Based Policies

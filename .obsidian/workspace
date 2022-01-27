@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Install Nim.md",
+            "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nim",
+                "query": "ultimate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Install Nim.md",
+                "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +100,8 @@
   },
   "active": "80eafeea963d4104",
   "lastOpenFiles": [
-    "Install Nim.md",
     "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+    "Install Nim.md",
     "CloudTrail.md",
     "AWS Cloudwatch Metrics.md",
     "Principles of compiler design.md",
