@@ -711,3 +711,11 @@ Organizational Units - Examples
 	OU's can be nested
 	
 Resource Based Policies
+
+## Secutiy
+
+---
+
+Encryption in Flight SSL/TLS
+
+kms
