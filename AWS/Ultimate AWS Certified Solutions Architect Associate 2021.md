@@ -719,3 +719,9 @@ Resource Based Policies
 Encryption in Flight SSL/TLS
 
 kms
+	automatic key rotation forced yearly
+	manual key rotation
+	new key CMK ID - keep previous key active
+	use alias to hide key change
+SSM Paraemeter Store
+-
