@@ -36,6 +36,7 @@ antichrist
 rust book
 nim book
 Option Volatility and Pricing: Advanced Trading Strategies and Techniques, 2nd Edition 
+Valuation: Measuring and Managing the Value of Companies
 Japanese Candlestick Charting Techniques
 Technical Analysis of the Financial Markets
 Mental Game of Trading
@@ -53,3 +54,4 @@ Be Here Now
 The Metamorphosis - kafka
 The Sailor Who Fell from Grace with the Sea - yukio mishima (pewdiepie reading books 2018)
 brave new world
+Techgnosis

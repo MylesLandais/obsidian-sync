@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+            "file": "2022 reading list.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ultimate",
+                "query": "2022",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395,
-    "collapsed": true
+    "width": 395
   },
   "right": {
     "id": "abfaa17789b05827",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+                "file": "2022 reading list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +100,7 @@
   },
   "active": "80eafeea963d4104",
   "lastOpenFiles": [
+    "2022 reading list.md",
     "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
     "Install Nim.md",
     "CloudTrail.md",
@@ -109,7 +109,6 @@
     "@Knuth.md",
     "@ullman.md",
     "System Design Interview.md",
-    "Trie - Design Pattern.md",
-    "AWS Event Bridge.md"
+    "Trie - Design Pattern.md"
   ]
 }
