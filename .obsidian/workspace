@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022 reading list.md",
+            "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2022",
+                "query": "aws",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022 reading list.md",
+                "file": "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "80eafeea963d4104",
   "lastOpenFiles": [
-    "2022 reading list.md",
     "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
+    "AWS Certified Security - Specialty (SCS-C01).md",
+    "2022 reading list.md",
     "Install Nim.md",
     "CloudTrail.md",
     "AWS Cloudwatch Metrics.md",
     "Principles of compiler design.md",
     "@Knuth.md",
     "@ullman.md",
-    "System Design Interview.md",
-    "Trie - Design Pattern.md"
+    "System Design Interview.md"
   ]
 }

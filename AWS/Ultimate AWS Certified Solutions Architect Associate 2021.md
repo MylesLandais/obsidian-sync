@@ -724,4 +724,44 @@ kms
 	new key CMK ID - keep previous key active
 	use alias to hide key change
 SSM Paraemeter Store
--
+
+_Shared Responsability Model_
+Amazon - Responsible for protecting infrastructure
+Customer - Responsabile for security in the could
+Shared - Patching, configuration, awareness, and training
+
+## Networking
+---
+
+Virtual Private Cloud
+
+CIDR - IPv4
+Classless Inter-Domain Routing - Allocating IP address
+Used in Security Group Rules and defint and IP Range
+/32 => one IP
+/0 => All IP's
+
+/26 => range of 64 ips
+
+Base IP (contained in range)
+192.168.0.0
+
+Subnet Mask - Defines how many it can change in the IP
+/0 /24 /32 All IP Space
+/8 255.0.0.0
+/16 255.255.0.0 last Two Octets can change 65,536 ips
+/24 255.255.255 Last Octet can change 256 ips
+/32 one Ip
+https://ipaddressguide.com/ 
+Tool to help caluclate IP Addresses
+
+172.16.0.0 /12 is the default AWS VPC Range
+
+Default VPC
+New EC2 instances are put in the default VPC with internet connectivity and public IPv4 address
+Get public/private DNS hostnames
+
+
+
+
+
