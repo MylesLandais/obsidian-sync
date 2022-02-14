@@ -754,7 +754,7 @@ Subnet Mask - Defines how many it can change in the IP
 /32 one Ip
 https://ipaddressguide.com/ 
 Tool to help caluclate IP Addresses
-
+( -5 for networking overhead )
 172.16.0.0 /12 is the default AWS VPC Range
 
 Default VPC
