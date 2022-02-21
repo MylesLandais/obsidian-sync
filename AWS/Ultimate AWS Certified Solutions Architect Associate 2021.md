@@ -761,7 +761,12 @@ Default VPC
 New EC2 instances are put in the default VPC with internet connectivity and public IPv4 address
 Get public/private DNS hostnames
 
+Internet Gateway (IGW)
+Allows resources to connect to the internet, one VPC can connect to one IGW
 
+Route Tables in VPC, Need to route VPN to IGW to enable public access.
+0.0.0.0/0 Target IPW # Rule for Internet routing
+10.1.0.0/24 Target Local # Rule for local routing
 
-
+Bastion Hosts - Jump off box, SSH into Bastion to SSH into Private EC2 instances. Bastion exposed to Public and has security rules to allow to private subnets.
 
