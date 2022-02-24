@@ -770,3 +770,4 @@ Route Tables in VPC, Need to route VPN to IGW to enable public access.
 
 Bastion Hosts - Jump off box, SSH into Bastion to SSH into Private EC2 instances. Bastion exposed to Public and has security rules to allow to private subnets.
 
+NAT Gateways 
