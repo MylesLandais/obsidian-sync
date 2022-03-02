@@ -771,3 +771,8 @@ Route Tables in VPC, Need to route VPN to IGW to enable public access.
 Bastion Hosts - Jump off box, SSH into Bastion to SSH into Private EC2 instances. Bastion exposed to Public and has security rules to allow to private subnets.
 
 NAT Gateways 
+
+VPC Enpoints - for private AWS resources such as dynamo, s3. Will not connect through public internet
+
+VPC flow log - interface traffic logs at the VPC, Subnet, and ENI. Can be sent to S3/CloudWatch
+
