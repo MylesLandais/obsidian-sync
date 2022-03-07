@@ -757,7 +757,7 @@ Tool to help caluclate IP Addresses
 ( -5 for networking overhead )
 172.16.0.0 /12 is the default AWS VPC Range
 
-Default VPC
+Default VPC (Virtual Private Cloud) a list of ipv4 and ipv6
 New EC2 instances are put in the default VPC with internet connectivity and public IPv4 address
 Get public/private DNS hostnames
 
@@ -775,4 +775,17 @@ NAT Gateways
 VPC Enpoints - for private AWS resources such as dynamo, s3. Will not connect through public internet
 
 VPC flow log - interface traffic logs at the VPC, Subnet, and ENI. Can be sent to S3/CloudWatch
-
+CIDR - IP Ranges
+Subnets - Tied to an AZ define a CIDR
+Internet Gateware - provides internet access
+Route Tables 
+Bastion Host - Internal with public access
+Nat Instances
+Nat Gateway
+Private DNS + Route 53
+NACL - Network Access Control List
+Security Groups - Stateful, EC2 instanc
+Reachability Analyzer - Test and perform connectivity 
+VPC Peering - connect two VPC's 
+VPC Endpoints - provides access to AWS Services
+VPC Flow Logs - Network traffic analysis using Athena, or CloudWatch
