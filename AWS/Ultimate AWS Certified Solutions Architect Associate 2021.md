@@ -789,3 +789,20 @@ Reachability Analyzer - Test and perform connectivity
 VPC Peering - connect two VPC's 
 VPC Endpoints - provides access to AWS Services
 VPC Flow Logs - Network traffic analysis using Athena, or CloudWatch
+
+Networking Costs in AWS
+	Public / Elastic IP .02C per GB
+	private IP .01c per GB
+	To another reigon is .02c per GB on Private IP
+
+Optimizze Egress traffic by placing your applications in AWS Cloud
+
+S3 Data Transfer Pricing 9c per GB, Transfer Acceleration is an additional 4c to 8c cost
+
+Nat Gateway pricing, using vpc endpoints are cost effective.
+
+Disaster Recovery Whitepaper
+RPO
+RTO
+Time between RPO and Disaster = Data loss
+ 
