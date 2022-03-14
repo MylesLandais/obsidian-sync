@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Daryl Chow.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -47,12 +47,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "dde968ab1ffe554b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 395
+    "width": 395,
+    "collapsed": true
   },
   "right": {
     "id": "abfaa17789b05827",
@@ -88,6 +97,14 @@
                 "sortOrder": "frequency",
                 "useHierarchy": false
               }
+            }
+          },
+          {
+            "id": "6748608aeeeeaa10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
             }
           }
         ]

@@ -3,6 +3,7 @@ Status: #bookmarks
 Tags:
 Content-Type: Video/Youtube
 Source: 	https://www.youtube.com/channel/UCwB_geotu24y4JksHkabmGQ
+---
 
 <iframe width="1266" height="719" src="https://www.youtube.com/embed/a0a98Ko8e3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -28,3 +29,6 @@ Source: 	https://www.youtube.com/channel/UCwB_geotu24y4JksHkabmGQ
 		- Instead of Daily notes, Make a Weekly Document
 		- Track Goals across
 		- Habit Tracking here
+
+<iframe width="1266" height="719" src="https://www.youtube.com/embed/g-3v3rrHprM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

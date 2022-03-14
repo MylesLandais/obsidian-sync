@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "Assets",
-  "trashOption": "local"
+  "trashOption": "local",
+  "legacyEditor": false
 }
