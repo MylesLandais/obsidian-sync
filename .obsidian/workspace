@@ -14,6 +14,30 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "24524c96d36b9324",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/phishing.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "05883deb477d5c64",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Social Engineering.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -40,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "index",
+                "query": "social",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,19 +138,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "80eafeea963d4104",
   "lastOpenFiles": [
     "Refrences/CompTia Security+ All-in-One 6ed.md",
+    "Notes/Social Engineering.md",
+    "Notes/phishing.md",
+    "Video - this is how hackers hack you using simple social engineering.md",
     "Home/2022/2022_week11.md",
     "Home/2022/Index.md",
     "Templates/Refrences.md",
     "A Drop of Jupyter A Modular Approach to Penetration Testing.md",
     "Self Worth and Investing in Yourself.md",
-    "Daryl Chow.md",
-    "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
-    "Library/Reading Lists.md",
-    "Reading List.md"
+    "Daryl Chow.md"
   ]
 }

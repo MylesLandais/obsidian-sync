@@ -1,5 +1,7 @@
 {
   "attachmentFolderPath": "Assets",
   "trashOption": "local",
-  "legacyEditor": false
+  "legacyEditor": false,
+  "foldHeading": true,
+  "foldIndent": true
 }
