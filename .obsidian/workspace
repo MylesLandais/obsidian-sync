@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daryl Chow.md",
-            "mode": "preview"
+            "file": "Refrences/CompTia Security+ All-in-One 6ed.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -39,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reading list",
+                "query": "index",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daryl Chow.md",
+                "file": "Refrences/CompTia Security+ All-in-One 6ed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,27 +105,28 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Refrences/CompTia Security+ All-in-One 6ed.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "80eafeea963d4104",
   "lastOpenFiles": [
+    "Refrences/CompTia Security+ All-in-One 6ed.md",
+    "Home/2022/2022_week11.md",
+    "Home/2022/Index.md",
+    "Templates/Refrences.md",
+    "A Drop of Jupyter A Modular Approach to Penetration Testing.md",
+    "Self Worth and Investing in Yourself.md",
     "Daryl Chow.md",
-    "Templates/Legion Pulse Tropical Punch.md",
     "AWS/Ultimate AWS Certified Solutions Architect Associate 2021.md",
     "Library/Reading Lists.md",
-    "Reading List.md",
-    "2022 reading list.md",
-    "AWS Certified Security - Specialty (SCS-C01).md",
-    "Install Nim.md",
-    "CloudTrail.md",
-    "AWS Cloudwatch Metrics.md"
+    "Reading List.md"
   ]
 }
