@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "80eafeea963d4104",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Split line inputs by spaces.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "24524c96d36b9324",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Notes/phishing.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8818d06dbe3e06a0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Refrences/CompTia Security+ All-in-One 6ed.md",
             "mode": "source",
             "source": false
           }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "social",
+                "query": "All-In-One",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,11 +81,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 395
+    "width": 395,
+    "collapsed": true
   },
   "right": {
     "id": "abfaa17789b05827",
@@ -101,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Split line inputs by spaces.md",
+                "file": "Refrences/CompTia Security+ All-in-One 6ed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Split line inputs by spaces.md"
+                "file": "Refrences/CompTia Security+ All-in-One 6ed.md"
               }
             }
           }
@@ -140,12 +142,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "80eafeea963d4104",
+  "active": "8818d06dbe3e06a0",
   "lastOpenFiles": [
-    "Split line inputs by spaces.md",
     "Refrences/CompTia Security+ All-in-One 6ed.md",
-    "Notes/Social Engineering.md",
     "Notes/phishing.md",
+    "Notes/Social Engineering.md",
+    "Split line inputs by spaces.md",
     "Video - this is how hackers hack you using simple social engineering.md",
     "Home/2022/2022_week11.md",
     "Home/2022/Index.md",

@@ -46,6 +46,66 @@ Source:
 	 - Collision
 	 - Downgrade
 # Application Attack Indicators
+- Privlidge Escalation
+- XSS
+- Injection Attacks
+	- SQL
+	- DLL 
+	- LDAP
+	- XML
+- Pointer/Object Derefrence
+- Directory Traversal
+- Buffer Overflow
+- Race Condition
+	- Time of Check vs. Time of Use
+- Improper Error Handling
+- Improper Input Handling
+- Replay Attack
+	- Session Replay
+- Integer Overflow
+- Request Forgery
+	- SSRF
+	- CSRF
+- API Attack
+- Resource Exhaustion
+- Memory Leak
+- SSL Stripping
+- Driver Manipulation
+	- Shimming
+	- Refactoring
+- Pass the Hash
+# Network Attack Indicators
+- wireless
+	- Evil Twin
+	- Rouge Access Point
+	- Bluesnarfing
+	- Bluejacking
+	- Disassociation
+	- Jamming
+	- Radio Frequency Identification
+	- Near Field Communcation
+	- Initialization Vector
+- On-path attacks
+- Layer 2 attacks
+	- Address Resolution Protocol
+	- Media Access Control
+	- MAC Cloning
+- Domain Name System
+	- Domain Hijacking
+	- DNS Poising
+	- Universal Resource Locator Redirection
+	- Domain reputation
+- Distributed Denial of Service
+	- Network
+	- Application
+	- Operational Technology
+- Malicious Code and Script Execution
+	- PowerShell
+	- Python
+	- Bash
+	- Macros
+	- Visual Basic for Applcations
+
 
 
 
