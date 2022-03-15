@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Refrences/CompTia Security+ All-in-One 6ed.md",
+            "file": "Split line inputs by spaces.md",
             "mode": "source",
             "source": false
           }
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395,
-    "collapsed": true
+    "width": 395
   },
   "right": {
     "id": "abfaa17789b05827",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refrences/CompTia Security+ All-in-One 6ed.md",
+                "file": "Split line inputs by spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refrences/CompTia Security+ All-in-One 6ed.md"
+                "file": "Split line inputs by spaces.md"
               }
             }
           }
@@ -143,6 +142,7 @@
   },
   "active": "80eafeea963d4104",
   "lastOpenFiles": [
+    "Split line inputs by spaces.md",
     "Refrences/CompTia Security+ All-in-One 6ed.md",
     "Notes/Social Engineering.md",
     "Notes/phishing.md",
@@ -151,7 +151,6 @@
     "Home/2022/Index.md",
     "Templates/Refrences.md",
     "A Drop of Jupyter A Modular Approach to Penetration Testing.md",
-    "Self Worth and Investing in Yourself.md",
-    "Daryl Chow.md"
+    "Self Worth and Investing in Yourself.md"
   ]
 }
